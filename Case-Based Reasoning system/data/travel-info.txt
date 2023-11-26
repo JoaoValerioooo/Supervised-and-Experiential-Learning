@@ -1,0 +1,34 @@
+deftype HolidayTypeDefinition
+	a_kind_of symbol;
+	range (Arbitrary Active Adventure Bathing City Diving Education Language Recreation Skiing Shoping Surfing Wandering).
+
+deftype DurationTypeDefinition
+	a_kind_of integer;
+	range [1..56].
+
+deftype PriceTypeDefinition
+	a_kind_of real;
+	range [200..10000].
+
+deftype NumbOfPersonsTypeDefinition
+	a_kind_of integer;
+	range [1..15].
+
+deftype RegionTypeDefinition
+	a_kind_of symbol;
+	range (Arbitrary AdriaticSea Algarve Allgaeu Alps Atlantic Attica Austria Balaton BalticSea Bavaria Belgium BlackForest Bornholm Brittany Bulgaria Cairo Carinthia Chalkidiki City Coast Corfu Corsica CostaBlanca CostaBrava CotedAzur Country Crete Cyprus Czechia Denmark Dolomites Egypt England ErzGebirge Fano France Fuerteventura Germany GiantMountains GranCanaria Greece Harz HighTatra Holland Hungaria Ibiza Ireland Island Italy Lake LakeGarda Lanzarote Lolland London LowerAustria Madeira Mallorca Malta MediterraneanSea Morocco Mountains Normandy NorthSea Paris Poland Portugal Rhodes Riviera SalzbergerLand Salzkammergut Scotland Sea Slowakei Spain Sweden Switzerland Styria Teneriffe Thuringia Tunisia Turkey TurkishAegeanSea TurkishRiviera Tyrol UnitedKingdom Wales Waters).
+
+deftype SeasonTypeDefinition
+	a_kind_of symbol;
+	range (Arbitrary Spring Summer Autumn Winter January February March April June July August September October November December May).
+
+deftype TransportationTypeDefinition
+	a_kind_of symbol;
+	range (Car Plane Train Coach Arbitrary).
+
+deftype AccommodationTypeDefinition
+	a_kind of symbol;
+        range (HolidayFlat OneStar TwoStars ThreeStars FourStars FiveStars).
+
+deftype HotelTypeDefinition
+	a_kind of symbol;

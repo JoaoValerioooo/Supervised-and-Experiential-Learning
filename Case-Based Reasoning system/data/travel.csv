@@ -1,0 +1,1025 @@
+holiday-type,price,num-persons,region,transportation,duration,season,accomodation,hotel,num_acceptance,num_rejected
+Bathing,2498.0,2.0,Egypt,Plane,14.0,April,TwoStars,"Hotel White House, Egypt",89,74
+Bathing,3066.0,3.0,Egypt,Plane,21.0,May,TwoStars,"Hotel White House, Egypt",96,86
+Active,2778.0,2.0,Egypt,Plane,14.0,June,TwoStars,"Hotel Geisum, Egypt",76,41
+Bathing,3195.0,3.0,Egypt,Plane,7.0,July,ThreeStars,"Hotel Al Mashrabia, Egypt",42,38
+Bathing,3158.0,2.0,Egypt,Plane,14.0,September,ThreeStars,"Hotel Al Mashrabia, Egypt",9,66
+Active,3318.0,2.0,Egypt,Plane,14.0,October,ThreeStars,"Hotel Al Mashrabia, Egypt",11,83
+Bathing,2458.0,2.0,Egypt,Plane,14.0,June,FourStars,"Hotel Winter Palace, Egypt",73,7
+Active,2649.0,3.0,Egypt,Plane,7.0,July,FourStars,"Hotel Winter Palace, Egypt",94,26
+Education,4638.0,2.0,Egypt,Plane,21.0,April,FourStars,"Anlage Arabia Beach, Egypt",48,36
+Education,3738.0,2.0,Egypt,Plane,14.0,October,FourStars,"Anlage Arabia Beach, Egypt",52,28
+City,1978.0,2.0,Cairo,Plane,7.0,April,ThreeStars,"Hotel Victoria, Cairo",10,69
+City,1898.0,2.0,Cairo,Plane,7.0,May,ThreeStars,"Hotel Victoria, Cairo",46,41
+City,2158.0,2.0,Cairo,Plane,14.0,June,ThreeStars,"Hotel Victoria, Cairo",35,73
+City,1898.0,2.0,Cairo,Plane,7.0,September,ThreeStars,"Hotel Victoria, Cairo",16,95
+City,1154.0,1.0,Cairo,Plane,7.0,October,ThreeStars,"Hotel New Marwa Palace, Cairo",14,96
+City,2308.0,2.0,Cairo,Plane,7.0,April,ThreeStars,"Hotel New Marwa Palace, Cairo",45,34
+City,2658.0,2.0,Cairo,Plane,7.0,May,ThreeStars,"Hotel New Marwa Palace, Cairo",93,94
+City,1269.0,1.0,Cairo,Plane,14.0,July,ThreeStars,"Hotel New Marwa Palace, Cairo",67,60
+City,2608.0,2.0,Cairo,Plane,7.0,May,FiveStars,"Hotel Moevenpick, Cairo",90,67
+City,2468.0,2.0,Cairo,Plane,7.0,August,FiveStars,"Hotel Moevenpick, Cairo",29,90
+Recreation,1568.0,2.0,Belgium,Car,14.0,May,TwoStars,"Hotel Ostend, Belgium",55,81
+Active,798.0,3.0,Belgium,Car,7.0,June,TwoStars,"Hotel Ostend, Belgium",18,5
+Recreation,978.0,3.0,Belgium,Car,7.0,July,ThreeStars,"Acces Hotel Mercure, Belgium",94,88
+Recreation,978.0,2.0,Belgium,Car,7.0,August,ThreeStars,"Acces Hotel Mercure, Belgium",84,65
+Active,1448.0,3.0,Belgium,Car,14.0,September,HolidayFlat,"H.Flat, Belgium",63,98
+Recreation,1638.0,4.0,Belgium,Car,14.0,June,HolidayFlat,"H.Flat, Belgium",19,46
+Recreation,1079.0,4.0,Belgium,Car,7.0,July,HolidayFlat,"H.Flat, Belgium",86,18
+Bathing,499.0,4.0,Belgium,Car,3.0,August,HolidayFlat,"H.Flat, Belgium",90,1
+Bathing,399.0,6.0,Belgium,Car,3.0,September,HolidayFlat,"H.Flat, Belgium",60,77
+Recreation,1928.0,2.0,Belgium,Train,14.0,July,ThreeStars,"Acces Hotel Mercure, Belgium",7,97
+Bathing,1598.0,2.0,Bulgaria,Plane,14.0,June,TwoStars,"Hotel Amfibia, Sunny Beach",85,6
+Bathing,2043.0,3.0,Bulgaria,Plane,14.0,July,TwoStars,"Hotel Hemus, Sunny Beach",89,71
+Bathing,1658.0,4.0,Bulgaria,Plane,7.0,August,TwoStars,"Hotel Raliza, Albena",38,15
+Bathing,1558.0,2.0,Bulgaria,Plane,7.0,July,ThreeStars,"Hotel Phoenix, Sunny Beach",68,6
+Active,1718.0,2.0,Bulgaria,Plane,14.0,June,ThreeStars,"Hotel Nessebar, Sunny Beach",20,87
+Bathing,1383.0,3.0,Bulgaria,Plane,7.0,August,ThreeStars,"Hotel Gergana, Albena",90,55
+Bathing,3628.0,4.0,Bulgaria,Plane,21.0,August,ThreeStars,"Hotel Orlav, Albena",49,25
+Active,2739.0,3.0,Bulgaria,Plane,14.0,July,FourStars,"Hotel Burgas, Sunny Beach",51,54
+Bathing,2399.0,2.0,Bulgaria,Plane,14.0,September,FourStars,"Grandhotel Varna, Albena",65,5
+Bathing,2273.0,3.0,Bornholm,Car,14.0,August,HolidayFlat,H.Flat Bornholm,56,41
+Bathing,1729.0,5.0,Bornholm,Car,7.0,July,HolidayFlat,H.Flat Bornholm,15,52
+Bathing,1389.0,4.0,Bornholm,Car,7.0,July,HolidayFlat,H.Flat Bornholm,81,32
+Recreation,968.0,6.0,Bornholm,Car,14.0,April,HolidayFlat,H.Flat Bornholm,89,33
+Recreation,489.0,6.0,Bornholm,Car,7.0,May,HolidayFlat,H.Flat Bornholm,89,62
+Recreation,489.0,6.0,Bornholm,Car,7.0,September,HolidayFlat,H.Flat Bornholm,48,78
+Bathing,2838.0,4.0,Fano,Car,14.0,July,HolidayFlat,H.Flat Fano,27,58
+Bathing,1399.0,6.0,Fano,Car,7.0,August,HolidayFlat,H.Flat Fano,71,36
+Recreation,958.0,6.0,Fano,Car,14.0,September,HolidayFlat,H.Flat Fano,88,51
+Recreation,579.0,3.0,Fano,Car,7.0,June,HolidayFlat,H.Flat Romo,54,1
+Recreation,789.0,5.0,Fano,Car,7.0,May,HolidayFlat,H.Flat Romo,3,69
+Recreation,2839.0,10.0,Fano,Car,7.0,July,HolidayFlat,H.Flat Romo,80,82
+Bathing,629.0,6.0,Lolland,Car,7.0,August,HolidayFlat,H.Flat Lolland,94,24
+Bathing,1598.0,4.0,Lolland,Car,14.0,July,HolidayFlat,H.Flat Lolland,29,52
+Recreation,429.0,8.0,Lolland,Car,7.0,September,HolidayFlat,H.Flat Lolland,61,27
+Recreation,648.0,2.0,Allgaeu,Car,7.0,June,TwoStars,"Gasthaus Meier, Allgaeu",38,84
+Wandering,972.0,4.0,Allgaeu,Car,7.0,July,TwoStars,"Gasthaus Alpenland, Allgaeu",20,51
+Recreation,1060.0,3.0,Allgaeu,Car,7.0,August,ThreeStars,"Hotel Alpspitz, Allgaeu",33,86
+Wandering,2110.0,3.0,Allgaeu,Train,14.0,July,ThreeStars,"Hotel Alpspitz, Allgaeu",41,76
+Active,1835.0,2.0,Allgaeu,Car,14.0,June,FiveStars,"Hofgut Kuernach, Allgaeu",39,77
+Wandering,951.0,2.0,Allgaeu,Car,7.0,September,FiveStars,"Hofgut Kuernach, Allgaeu",77,19
+Recreation,794.0,4.0,Allgaeu,Train,7.0,August,HolidayFlat,"H.Flat, Allgaeu",13,37
+Active,814.0,6.0,Allgaeu,Car,7.0,July,HolidayFlat,"H.Flat, Allgaeu",7,12
+Wandering,1568.0,4.0,Allgaeu,Car,14.0,June,HolidayFlat,"H.Flat, Allgaeu",34,2
+Wandering,644.0,4.0,Allgaeu,Car,7.0,July,HolidayFlat,"H.Flat, Allgaeu",88,31
+Recreation,648.0,2.0,Alps,Car,7.0,June,TwoStars,"Pension Blueml, Upper Bavaria",14,82
+Wandering,2232.0,3.0,Alps,Car,14.0,July,TwoStars,"Pension Blueml, Upper Bavaria",22,27
+Recreation,2082.0,4.0,Alps,Car,7.0,August,ThreeStars,"Hotel Chiemgauer Hof, Upper Bavaria",79,68
+Recreation,5185.0,3.0,Alps,Car,21.0,June,ThreeStars,"Hotel Chiemgauer Hof, Upper Bavaria",58,57
+Active,2368.0,2.0,Alps,Train,14.0,September,ThreeStars,"Hotel Chiemgauer Hof, Upper Bavaria",64,80
+Recreation,3758.0,2.0,Alps,Car,21.0,July,FourStars,"Hotel Zur Post, Upper Bavaria",7,29
+Recreation,3135.0,3.0,Alps,Car,14.0,August,FourStars,"Hotel Zur Post, Upper Bavaria",74,80
+Wandering,3762.0,4.0,Alps,Car,14.0,July,FourStars,"Hotel Zur Post, Upper Bavaria",63,9
+Recreation,1254.0,4.0,Alps,Car,7.0,June,HolidayFlat,H.Flat Upper Bavaria,51,43
+Recreation,814.0,6.0,Alps,Train,7.0,August,HolidayFlat,H.Flat Upper Bavaria,97,33
+Recreation,1361.0,2.0,Bavaria,Car,14.0,September,HolidayFlat,H.Flat Upper Bavaria,87,46
+Recreation,1618.0,4.0,Bavaria,Car,14.0,May,HolidayFlat,H.Flat Upper Bavaria,13,96
+Recreation,1728.0,2.0,Bavaria,Train,14.0,July,HolidayFlat,H.Flat Upper Bavaria,5,17
+Wandering,609.0,3.0,Bavaria,Car,7.0,June,HolidayFlat,H.Flat Upper Bavaria,90,23
+Wandering,1069.0,6.0,Bavaria,Car,7.0,August,HolidayFlat,H.Flat Upper Bavaria,31,46
+Wandering,684.0,4.0,Bavaria,Car,7.0,September,HolidayFlat,H.Flat Upper Bavaria,13,21
+Active,1328.0,4.0,Bavaria,Train,14.0,May,HolidayFlat,H.Flat Upper Bavaria,98,29
+Active,779.0,2.0,Bavaria,Car,7.0,June,HolidayFlat,H.Flat Upper Bavaria,33,52
+Active,1639.0,5.0,Bavaria,Car,7.0,July,HolidayFlat,H.Flat Upper Bavaria,72,60
+Wandering,944.0,8.0,Bavaria,Car,7.0,August,HolidayFlat,H.Flat Upper Bavaria,80,19
+Wandering,758.0,2.0,ErzGebirge,Car,7.0,June,TwoStars,"Wolfsgruener Schloss, Erz Gebirge",2,39
+Wandering,758.0,3.0,ErzGebirge,Car,7.0,July,TwoStars,"Wolfsgruener Schloss, Erz Gebirge",93,91
+Recreation,1885.0,4.0,ErzGebirge,Car,14.0,August,TwoStars,"Wolfsgruener Schloss, Erz Gebirge",73,69
+Recreation,758.0,3.0,ErzGebirge,Car,7.0,September,TwoStars,"Wolfsgruener Schloss, Erz Gebirge",91,4
+Wandering,1828.0,2.0,ErzGebirge,Car,14.0,May,ThreeStars,"Hotel Am Fichtelberg, Erz Gebirge",82,25
+Wandering,918.0,2.0,ErzGebirge,Train,7.0,July,ThreeStars,"Hotel Am Fichtelberg, Erz Gebirge",81,71
+Wandering,2738.0,3.0,ErzGebirge,Car,21.0,June,ThreeStars,"Hotel Am Fichtelberg, Erz Gebirge",21,24
+Recreation,1828.0,3.0,ErzGebirge,Car,14.0,September,ThreeStars,"Sporthotel, Erz Gebirge",49,88
+Recreation,918.0,2.0,ErzGebirge,Car,7.0,May,ThreeStars,"Sporthotel, Erz Gebirge",85,54
+Wandering,1580.0,4.0,ErzGebirge,Train,7.0,August,FourStars,"Kur- und Sporthotel, Erz Gebirge",39,97
+Wandering,958.0,2.0,ErzGebirge,Car,7.0,July,FourStars,"Kur- und Sporthotel, Erz Gebirge",59,69
+Wandering,2385.0,3.0,ErzGebirge,Car,14.0,June,FourStars,"Kur- und Sporthotel, Erz Gebirge",62,55
+Recreation,1372.0,3.0,ErzGebirge,Car,7.0,August,FourStars,"Hotel Panorama, Erz Gebirge",94,42
+Recreation,2188.0,2.0,ErzGebirge,Car,14.0,September,FourStars,"Hotel Panorama, Erz Gebirge",38,47
+Active,1098.0,2.0,ErzGebirge,Car,7.0,August,FourStars,"Hotel Panorama, Erz Gebirge",7,92
+Recreation,478.0,2.0,Harz,Car,7.0,May,TwoStars,"Hotel Brockenscheideck, Harz",34,42
+Wandering,948.0,2.0,Harz,Train,14.0,June,TwoStars,"Hotel Brockenscheideck, Harz",88,23
+Recreation,1072.0,3.0,Harz,Car,7.0,July,ThreeStars,"Hotel Waldfrieden, Harz",24,32
+Recreation,1501.0,4.0,Harz,Car,7.0,August,ThreeStars,"Hotel Waldfrieden, Harz",49,37
+Recreation,1868.0,2.0,Harz,Car,14.0,September,ThreeStars,"Hotel Waldfrieden, Harz",3,17
+Wandering,1172.0,3.0,Harz,Car,7.0,May,ThreeStars,"Hotel Waldfrieden, Harz",44,21
+Recreation,1888.0,2.0,Harz,Car,7.0,June,FiveStars,"Hotel Maritim, Harz",92,71
+Recreation,1888.0,3.0,Harz,Train,7.0,July,FiveStars,"Hotel Maritim, Harz",66,46
+Wandering,3768.0,2.0,Harz,Car,14.0,May,FiveStars,"Hotel Maritim, Harz",29,82
+Recreation,484.0,2.0,Harz,Car,7.0,August,HolidayFlat,H.Flat Harz,40,9
+Recreation,374.0,4.0,Harz,Car,7.0,September,HolidayFlat,H.Flat Harz,75,60
+Recreation,589.0,3.0,Harz,Car,7.0,June,HolidayFlat,H.Flat Harz,75,74
+Wandering,719.0,4.0,Harz,Train,7.0,July,HolidayFlat,H.Flat Harz,15,97
+Wandering,1248.0,4.0,Harz,Car,14.0,August,HolidayFlat,H.Flat Harz,53,33
+Bathing,398.0,2.0,NorthSea,Car,7.0,July,OneStar,"Pension Murra, North Sea",67,13
+Recreation,398.0,2.0,NorthSea,Car,7.0,June,OneStar,"Pension Murra, North Sea",98,1
+Bathing,1348.0,3.0,NorthSea,Car,7.0,July,TwoStars,"Pension Nina, North Sea",88,79
+Bathing,1348.0,2.0,NorthSea,Car,7.0,August,TwoStars,"Pension Nina, North Sea",35,65
+Recreation,3228.0,2.0,NorthSea,Car,14.0,May,TwoStars,"Hotel Silbermoeve, North Sea",2,88
+Recreation,1618.0,2.0,NorthSea,Train,7.0,September,TwoStars,"Hotel Silbermoeve, North Sea",83,60
+Bathing,719.0,4.0,NorthSea,Car,7.0,August,HolidayFlat,H.Flat North Sea,1,62
+Bathing,669.0,6.0,NorthSea,Car,7.0,July,HolidayFlat,H.Flat North Sea,55,34
+Bathing,2108.0,4.0,NorthSea,Car,14.0,August,HolidayFlat,H.Flat North Sea,11,13
+Recreation,579.0,4.0,NorthSea,Train,7.0,June,HolidayFlat,H.Flat North Sea,87,24
+Recreation,664.0,5.0,NorthSea,Car,7.0,July,HolidayFlat,H.Flat North Sea,41,36
+Recreation,1138.0,4.0,NorthSea,Car,14.0,August,HolidayFlat,H.Flat North Sea,98,6
+Active,2198.0,3.0,NorthSea,Car,14.0,September,HolidayFlat,H.Flat North Sea,24,56
+Recreation,1044.0,6.0,NorthSea,Train,7.0,June,HolidayFlat,H.Flat North Sea,59,95
+Active,719.0,3.0,NorthSea,Car,7.0,August,HolidayFlat,H.Flat Sylt,95,53
+Bathing,1828.0,2.0,BalticSea,Car,14.0,July,TwoStars,"Hotel Stoertebeker, Zingst",14,45
+Bathing,918.0,3.0,BalticSea,Car,7.0,August,TwoStars,"Hotel Stoertebeker, Zingst",17,27
+Recreation,918.0,2.0,BalticSea,Car,7.0,June,TwoStars,"Hotel Am Leuchtturm, Warnemuende",19,91
+Recreation,1147.0,3.0,BalticSea,Train,7.0,September,TwoStars,"Hotel Am Leuchtturm, Warnemuende",28,59
+Bathing,1047.0,3.0,BalticSea,Car,7.0,July,ThreeStars,"Hotel Baltic, Usedom",64,4
+Bathing,2472.0,4.0,BalticSea,Car,14.0,August,ThreeStars,"Hotel Baltic, Usedom",45,44
+Recreation,2226.0,3.0,BalticSea,Car,14.0,June,ThreeStars,"NobisHotel, Ruegen",48,85
+Bathing,1438.0,2.0,BalticSea,Car,7.0,August,FourStars,"Ostseehotel, Wustrow",86,56
+Active,1797.0,3.0,BalticSea,Car,7.0,July,FourStars,"Ostseehotel, Wustrow",68,49
+Bathing,1044.0,4.0,BalticSea,Train,7.0,August,HolidayFlat,H.Flat Baltic Sea,36,68
+Bathing,639.0,2.0,BalticSea,Car,7.0,August,HolidayFlat,H.Flat Fehmarn,46,12
+Bathing,1818.0,2.0,BalticSea,Car,14.0,July,HolidayFlat,"H.Flat, Ruegen",53,8
+Recreation,539.0,4.0,BalticSea,Car,7.0,June,HolidayFlat,H.Flat Baltic Sea,36,52
+Recreation,709.0,6.0,BalticSea,Car,7.0,May,HolidayFlat,H.Flat Baltic Sea,46,14
+Active,994.0,4.0,BalticSea,Train,14.0,July,HolidayFlat,H.Flat Baltic Sea,9,34
+Wandering,547.0,3.0,BlackForest,Car,7.0,May,TwoStars,"Hotel Hirschen, Black Forest",46,89
+Recreation,868.0,2.0,BlackForest,Car,14.0,June,TwoStars,"Hotel Hirschen, Black Forest",70,79
+Wandering,907.0,3.0,BlackForest,Car,7.0,July,ThreeStars,"Hotel Waldwinkel, Black Forest",95,42
+Wandering,698.0,2.0,BlackForest,Car,14.0,August,ThreeStars,"Hotel Waldwinkel, Black Forest",36,84
+Wandering,738.0,2.0,BlackForest,Train,7.0,September,ThreeStars,"Berghotel Kandel, Black Forest",76,52
+Recreation,922.0,3.0,BlackForest,Car,7.0,August,ThreeStars,"Berghotel Kandel, Black Forest",25,26
+Wandering,3732.0,4.0,BlackForest,Car,14.0,July,FourStars,"Kurhotel, Black Forest",77,11
+Recreation,1138.0,2.0,BlackForest,Car,7.0,June,FourStars,"Kurhotel, Black Forest",64,50
+Wandering,449.0,2.0,BlackForest,Train,7.0,May,HolidayFlat,H.Flat Black Forest,81,14
+Wandering,459.0,5.0,BlackForest,Car,7.0,June,HolidayFlat,H.Flat Black Forest,80,90
+Wandering,1039.0,3.0,BlackForest,Car,7.0,July,HolidayFlat,H.Flat Black Forest,81,5
+Wandering,2538.0,3.0,BlackForest,Car,14.0,August,HolidayFlat,H.Flat Black Forest,96,21
+Recreation,1313.0,2.0,BlackForest,Car,14.0,September,HolidayFlat,H.Flat Black Forest,45,98
+Recreation,904.0,6.0,BlackForest,Car,7.0,October,HolidayFlat,H.Flat Black Forest,97,5
+Recreation,984.0,7.0,BlackForest,Train,7.0,July,HolidayFlat,H.Flat Black Forest,22,28
+Recreation,638.0,2.0,Thuringia,Car,7.0,May,ThreeStars,"Berghotel Oberhof, Thuringia",84,14
+Recreation,922.0,3.0,Thuringia,Car,7.0,August,ThreeStars,"Berghotel Oberhof, Thuringia",84,93
+Active,998.0,2.0,Thuringia,Car,7.0,June,ThreeStars,"Hotel Finsterbergen, Thuringia",29,8
+Wandering,2588.0,3.0,Thuringia,Car,14.0,July,ThreeStars,"Hotel Finsterbergen, Thuringia",60,39
+Wandering,1377.0,4.0,Thuringia,Train,7.0,August,FourStars,"Hotel Rennsteig, Thuringia",93,33
+Recreation,918.0,2.0,Thuringia,Car,7.0,September,FourStars,"Hotel Rennsteig, Thuringia",12,37
+Active,2285.0,3.0,Thuringia,Car,14.0,August,FourStars,"Hotel Rennsteig, Thuringia",42,47
+Recreation,2668.0,2.0,Thuringia,Car,14.0,October,FourStars,"Hotel Panorama, Thuringia",57,2
+Active,1497.0,3.0,Thuringia,Car,7.0,August,FourStars,"Hotel Panorama, Thuringia",35,44
+Active,2388.0,3.0,Thuringia,Car,14.0,August,FourStars,"Hotel Panorama, Thuringia",2,20
+Recreation,589.0,4.0,Thuringia,Car,7.0,July,HolidayFlat,H.Flat Thuringia,38,51
+Recreation,1128.0,4.0,Thuringia,Train,14.0,June,HolidayFlat,H.Flat Thuringia,89,77
+Recreation,589.0,4.0,Thuringia,Car,7.0,May,HolidayFlat,H.Flat Thuringia,5,7
+Recreation,1148.0,4.0,Thuringia,Car,14.0,July,HolidayFlat,H.Flat Thuringia,60,22
+Wandering,574.0,4.0,Thuringia,Car,7.0,August,HolidayFlat,H.Flat Thuringia,46,43
+Bathing,858.0,4.0,Atlantic,Car,14.0,May,HolidayFlat,"H.Flat Atlantik, France",32,1
+Bathing,2078.0,4.0,Atlantic,Car,14.0,June,HolidayFlat,"H.Flat Atlantik, France",16,44
+Bathing,4718.0,7.0,Atlantic,Car,14.0,July,HolidayFlat,"H.Flat Atlantik, France",48,60
+Bathing,1698.0,4.0,Atlantic,Car,14.0,August,HolidayFlat,"H.Flat Atlantik, France",99,63
+Bathing,649.0,6.0,Atlantic,Car,7.0,September,HolidayFlat,"H.Flat Atlantik, France",21,20
+Bathing,394.0,3.0,Atlantic,Car,7.0,June,HolidayFlat,"H.Flat Atlantik, France",19,42
+Bathing,1289.0,5.0,Atlantic,Car,7.0,July,HolidayFlat,"H.Flat Atlantik, France",29,18
+Bathing,879.0,4.0,Atlantic,Car,7.0,August,HolidayFlat,"H.Flat Atlantik, France",6,42
+Bathing,1347.0,3.0,Atlantic,Car,21.0,May,HolidayFlat,"H.Flat Atlantik, France",82,95
+Active,838.0,5.0,Atlantic,Car,14.0,June,HolidayFlat,"H.Flat Atlantik, France",44,12
+Active,1938.0,6.0,Atlantic,Car,14.0,July,HolidayFlat,"H.Flat Atlantik, France",96,98
+Active,849.0,6.0,Atlantic,Car,7.0,August,HolidayFlat,"H.Flat Atlantik, France",37,81
+Active,1204.0,8.0,Atlantic,Car,7.0,June,HolidayFlat,"H.Flat Atlantik, France",59,22
+Recreation,2878.0,8.0,Atlantic,Car,14.0,July,HolidayFlat,"H.Flat Atlantik, France",19,70
+Recreation,2187.0,2.0,Atlantic,Car,21.0,August,HolidayFlat,"H.Flat Atlantik, France",99,99
+Bathing,519.0,2.0,CotedAzur,Car,7.0,April,HolidayFlat,H.Flat Cote d'Azur,69,30
+Bathing,479.0,3.0,CotedAzur,Car,7.0,May,HolidayFlat,H.Flat Cote d'Azur,87,97
+Bathing,829.0,7.0,CotedAzur,Car,7.0,June,HolidayFlat,H.Flat Cote d'Azur,7,72
+Bathing,1089.0,5.0,CotedAzur,Car,7.0,July,HolidayFlat,H.Flat Cote d'Azur,2,21
+Bathing,1029.0,5.0,CotedAzur,Car,7.0,August,HolidayFlat,H.Flat Cote d'Azur,61,97
+Bathing,799.0,6.0,CotedAzur,Car,7.0,September,HolidayFlat,H.Flat Cote d'Azur,34,4
+Bathing,449.0,4.0,CotedAzur,Train,7.0,October,HolidayFlat,H.Flat Cote d'Azur,42,8
+Bathing,1198.0,4.0,CotedAzur,Car,14.0,May,HolidayFlat,H.Flat Cote d'Azur,13,75
+Bathing,1108.0,4.0,CotedAzur,Train,14.0,June,HolidayFlat,H.Flat Cote d'Azur,80,56
+Bathing,4458.0,7.0,CotedAzur,Car,14.0,July,HolidayFlat,H.Flat Cote d'Azur,55,8
+Active,2678.0,3.0,CotedAzur,Car,14.0,August,HolidayFlat,H.Flat Cote d'Azur,95,75
+Active,1598.0,4.0,CotedAzur,Car,14.0,September,HolidayFlat,H.Flat Cote d'Azur,82,40
+Active,589.0,6.0,CotedAzur,Car,7.0,May,HolidayFlat,H.Flat Cote d'Azur,16,18
+Recreation,449.0,2.0,CotedAzur,Train,7.0,June,HolidayFlat,H.Flat Cote d'Azur,94,79
+Recreation,1838.0,3.0,CotedAzur,Car,14.0,July,HolidayFlat,H.Flat Cote d'Azur,70,93
+Bathing,1539.0,2.0,Corsica,Plane,14.0,May,OneStar,Caravan La Pinede,10,60
+Bathing,2469.0,3.0,Corsica,Plane,14.0,June,OneStar,Hotel L'Esquinade,72,34
+Bathing,5269.0,4.0,Corsica,Plane,14.0,July,TwoStars,Feriendorf Vallicella,55,54
+Bathing,2249.0,3.0,Corsica,Plane,21.0,June,TwoStars,Mobilhomes La Pinede,88,12
+Bathing,1898.0,2.0,Corsica,Plane,7.0,August,TwoStars,Hotel Funtana Marina,1,10
+Bathing,3522.0,4.0,Corsica,Plane,7.0,July,TwoStars,Feriendorf Vallicella,99,34
+Bathing,3459.0,3.0,Corsica,Plane,14.0,August,ThreeStars,Calvi-Hotel,47,11
+Bathing,2539.0,2.0,Corsica,Plane,14.0,September,ThreeStars,Studios Le Rocher,9,40
+Bathing,5659.0,3.0,Corsica,Plane,21.0,July,ThreeStars,Hotel Pineto,35,49
+Bathing,3298.0,2.0,Corsica,Plane,14.0,June,ThreeStars,Hotel Orizonte,56,17
+Active,2718.0,2.0,Corsica,Plane,14.0,September,ThreeStars,Grand Hotel,34,76
+Active,5678.0,3.0,Corsica,Plane,21.0,August,ThreeStars,Grand Hotel,8,92
+Active,2038.0,2.0,Corsica,Plane,14.0,June,TwoStars,Mobilhomes La Pinede,56,38
+Wandering,634.0,1.0,Corsica,Plane,7.0,April,TwoStars,Mobilhomes La Pinede,56,46
+Wandering,2578.0,2.0,Corsica,Plane,14.0,May,ThreeStars,Grand Hotel,90,3
+Bathing,659.0,4.0,Normandy,Car,7.0,June,HolidayFlat,H.Flat Normandy,82,91
+Bathing,709.0,2.0,Normandy,Car,7.0,July,HolidayFlat,H.Flat Normandy,50,8
+Active,809.0,4.0,Normandy,Car,7.0,August,HolidayFlat,H.Flat Normandy,80,86
+Active,1418.0,2.0,Normandy,Car,14.0,August,HolidayFlat,H.Flat Normandy,87,58
+Recreation,1618.0,4.0,Normandy,Car,14.0,July,HolidayFlat,H.Flat Normandy,7,81
+Bathing,689.0,4.0,Brittany,Car,7.0,June,HolidayFlat,H.Flat Brittany,16,33
+Bathing,1549.0,7.0,Brittany,Car,7.0,July,HolidayFlat,H.Flat Brittany,82,54
+Bathing,1064.0,5.0,Brittany,Car,7.0,August,HolidayFlat,H.Flat Brittany,9,13
+Bathing,519.0,4.0,Brittany,Car,7.0,September,HolidayFlat,H.Flat Brittany,74,99
+Active,1219.0,6.0,Brittany,Car,7.0,August,HolidayFlat,H.Flat Brittany,57,37
+Active,889.0,4.0,Brittany,Car,7.0,July,HolidayFlat,H.Flat Brittany,21,56
+Active,1268.0,4.0,Brittany,Car,14.0,June,HolidayFlat,H.Flat Brittany,8,38
+Recreation,2108.0,5.0,Brittany,Car,14.0,July,HolidayFlat,H.Flat Brittany,54,59
+Recreation,1258.0,4.0,Brittany,Car,14.0,August,HolidayFlat,H.Flat Brittany,12,49
+Recreation,1797.0,4.0,Brittany,Car,21.0,June,HolidayFlat,H.Flat Brittany,33,93
+Bathing,3485.0,3.0,Attica,Plane,14.0,May,FourStars,"Hotel Golden Coast, Attica",61,39
+Bathing,2038.0,2.0,Attica,Plane,14.0,April,TwoStars,"Hotel Calamos Beach, Attica",12,24
+Bathing,3129.0,4.0,Attica,Plane,7.0,September,ThreeStars,"Hotel Kalypso Club, Attica",41,93
+Bathing,2518.0,2.0,Attica,Plane,14.0,June,ThreeStars,"Hotel Menexelis, Attica",67,33
+Bathing,3215.0,3.0,Attica,Plane,14.0,July,ThreeStars,"Hotel Miramare, Attica",1,7
+Bathing,4002.0,3.0,Attica,Plane,21.0,September,FourStars,"Hotel Holidays in Evia, Attica",82,9
+Bathing,3216.0,4.0,Attica,Plane,7.0,August,ThreeStars,"Hotel Menexelis, Attica",96,64
+Bathing,1149.0,1.0,Attica,Plane,14.0,June,TwoStars,"Hotel Calamos Beach, Attica",85,10
+Bathing,3658.0,2.0,Attica,Plane,14.0,July,FourStars,"Hotel Golden Coast, Attica",63,15
+Bathing,3458.0,2.0,Attica,Plane,21.0,August,ThreeStars,"Hotel Menexelis, Attica",42,76
+Bathing,2742.0,3.0,Attica,Plane,14.0,July,TwoStars,"Hotel Calamos Beach, Attica",63,12
+Recreation,2258.0,2.0,Attica,Plane,7.0,June,FourStars,"Hotel Golden Coast, Attica",37,63
+Recreation,1169.0,1.0,Attica,Plane,14.0,September,ThreeStars,"Hotel Miramare, Attica",38,97
+Recreation,3215.0,3.0,Attica,Plane,14.0,August,ThreeStars,"Hotel Miramare, Attica",94,1
+Recreation,3378.0,2.0,Attica,Plane,21.0,May,FourStars,"Hotel Golden Coast, Attica",63,15
+Bathing,2787.0,3.0,Chalkidiki,Plane,14.0,July,TwoStars,"Hotel Sermyli, Chalkidiki",54,28
+Bathing,4673.0,4.0,Chalkidiki,Plane,14.0,August,ThreeStars,"Hotel Portes Beach, Chalkidiki",62,59
+Bathing,2898.0,2.0,Chalkidiki,Plane,21.0,September,ThreeStars,"Hotel Mendi, Chalkidiki",82,48
+Bathing,2538.0,2.0,Chalkidiki,Plane,14.0,June,ThreeStars,"Hotel Olympico, Chalkidiki",80,41
+Bathing,2427.0,3.0,Chalkidiki,Plane,7.0,July,ThreeStars,"Hotel Olympico, Chalkidiki",50,79
+Recreation,2358.0,2.0,Chalkidiki,Plane,14.0,May,ThreeStars,"Hotel Olympico, Chalkidiki",14,42
+Recreation,2898.0,2.0,Chalkidiki,Plane,21.0,September,ThreeStars,"Hotel Mendi, Chalkidiki",94,92
+Recreation,2398.0,2.0,Chalkidiki,Plane,14.0,June,ThreeStars,"Hotel Mendi, Chalkidiki",27,7
+Active,3718.0,3.0,Chalkidiki,Plane,14.0,July,FourStars,"Hotel Sani Beach, Chalkidiki",69,41
+Active,3299.0,3.0,Chalkidiki,Plane,7.0,August,FourStars,"Hotel Sani Beach, Chalkidik",3,61
+Active,3318.0,2.0,Chalkidiki,Plane,14.0,June,FourStars,"Hotel Sani Beach, Chalkidik",51,77
+Recreation,5329.0,4.0,Chalkidiki,Plane,14.0,July,FourStars,"Hotel Athos Palace, Chalkidiki",79,52
+Recreation,3258.0,2.0,Chalkidiki,Plane,21.0,May,FourStars,"Hotel Athos Palace, Chalkidiki",42,57
+Recreation,3038.0,2.0,Chalkidiki,Plane,14.0,September,FourStars,"Hotel Athos Palace, Chalkidiki",59,4
+Education,2738.0,2.0,Chalkidiki,Plane,21.0,October,FourStars,"Hotel Athos Palace, Chalkidiki",58,12
+Bathing,2831.0,3.0,Corfu,Plane,14.0,June,TwoStars,"Hotel Iliada, Corfu",97,22
+Bathing,3644.0,4.0,Corfu,Plane,14.0,July,TwoStars,"Hotel Iliada, Corfu",53,29
+Bathing,3258.0,2.0,Corfu,Plane,21.0,September,ThreeStars,"Hotel Belvedere, Corfu",60,59
+Bathing,3793.0,3.0,Corfu,Plane,14.0,August,ThreeStars,"Hotel Belvedere, Corfu",40,45
+Bathing,2779.0,3.0,Corfu,Plane,7.0,August,ThreeStars,"Hotel Belvedere, Corfu",79,76
+Bathing,2698.0,2.0,Corfu,Plane,14.0,June,ThreeStars,"Hotel Coral, Corfu",75,86
+Bathing,3649.0,3.0,Corfu,Plane,21.0,September,ThreeStars,"Hotel Coral, Corfu",96,3
+Bathing,3078.0,2.0,Corfu,Plane,14.0,July,ThreeStars,"Hotel Coral, Corfu",69,86
+Bathing,3198.0,2.0,Corfu,Plane,14.0,September,ThreeStars,"Hotel Mirabell, Corfu",25,88
+Active,3758.0,2.0,Corfu,Plane,21.0,June,ThreeStars,"Hotel Mirabell, Corfu",62,39
+Active,3198.0,3.0,Corfu,Plane,14.0,August,ThreeStars,"Hotel Mirabell, Corfu",95,7
+Active,2158.0,2.0,Corfu,Plane,7.0,July,FourStars,"Hotel Regency, Corfu",11,86
+Recreation,3418.0,2.0,Corfu,Plane,21.0,June,FourStars,"Hotel Regency, Corfu",37,6
+Recreation,3038.0,2.0,Corfu,Plane,14.0,September,FourStars,"Hotel Kerkyra Golf, Corfu",38,31
+Recreation,2043.0,3.0,Corfu,Plane,7.0,May,FourStars,"Hotel Kerkyra Golf, Corfu",50,92
+Bathing,2498.0,2.0,Crete,Plane,14.0,June,TwoStars,"Hotel Oceanis, Crete",78,32
+Bathing,2417.0,3.0,Crete,Plane,14.0,July,TwoStars,"Hotel Ilios, Crete",85,55
+Active,2825.0,4.0,Crete,Plane,7.0,August,TwoStars,"Hotel Oceanis, Crete",71,96
+Bathing,3498.0,2.0,Crete,Plane,14.0,September,ThreeStars,"Hotel Creta Beach, Crete",40,8
+Bathing,4198.0,2.0,Crete,Plane,21.0,June,ThreeStars,"Hotel Creta Beach, Crete",46,61
+Bathing,3847.0,3.0,Crete,Plane,14.0,August,ThreeStars,"Hotel Creta Beach, Crete",97,27
+Bathing,3175.0,4.0,Crete,Plane,7.0,July,ThreeStars,"Hotel Gortyna, Crete",42,74
+Active,3038.0,2.0,Crete,Plane,14.0,September,ThreeStars,"Hotel Gortyna, Crete",97,55
+Active,2758.0,2.0,Crete,Plane,14.0,June,ThreeStars,"Hotel Gortyna, Crete",55,50
+Bathing,3198.0,2.0,Crete,Plane,14.0,June,FourStars,"Hotel Fodele Beach, Crete",9,72
+Bathing,2298.0,2.0,Crete,Plane,7.0,May,FourStars,"Hotel Fodele Beach, Crete",67,39
+Bathing,6609.0,3.0,Crete,Plane,21.0,July,FourStars,"Hotel Bali Paradise, Crete",2,12
+Active,4068.0,3.0,Crete,Plane,14.0,August,FourStars,"Hotel Bali Paradise, Crete",13,85
+Active,4463.0,3.0,Crete,Plane,21.0,June,FourStars,"Hotel Europa Beach, Crete",59,70
+Education,3038.0,2.0,Crete,Plane,14.0,May,FourStars,"Hotel Europa Beach, Crete",22,29
+Bathing,2263.0,3.0,Rhodes,Plane,14.0,May,TwoStars,"Studios Argiro, Rhodes",13,72
+Bathing,2428.0,2.0,Rhodes,Plane,21.0,June,TwoStars,"Studios Argiro, Rhodes",32,86
+Bathing,2263.0,3.0,Rhodes,Plane,7.0,July,ThreeStars,"Hotel Dafni, Rhodes",14,25
+Bathing,3553.0,4.0,Rhodes,Plane,14.0,August,ThreeStars,"Hotel Dafni, Rhodes",87,67
+Bathing,2791.0,3.0,Rhodes,Plane,14.0,July,ThreeStars,"Hotel Dafni, Rhodes",33,53
+Recreation,1968.0,2.0,Rhodes,Plane,7.0,May,ThreeStars,"Hotel Kalithea Sun, Rhodes",80,19
+Active,2758.0,2.0,Rhodes,Plane,14.0,June,ThreeStars,"Hotel Kalithea Sun, Rhodes",92,2
+Active,4364.0,3.0,Rhodes,Plane,21.0,July,ThreeStars,"Hotel Kalithea Sun, Rhodes",74,85
+Education,2478.0,2.0,Rhodes,Plane,14.0,October,ThreeStars,"Hotel Kalithea Sun, Rhodes",86,58
+Bathing,3869.0,3.0,Rhodes,Plane,14.0,July,FourStars,"Hotel Columbia Resort, Rhodes",73,84
+Bathing,3958.0,2.0,Rhodes,Plane,21.0,September,FourStars,"Hotel Columbia Resort, Rhodes",46,67
+Bathing,4925.0,4.0,Rhodes,Plane,14.0,August,FourStars,"Hotel Columbia Resort, Rhodes",48,20
+Active,3498.0,2.0,Rhodes,Plane,14.0,July,FourStars,"Hotel Paradise Beach, Rhodes",78,14
+Recreation,2298.0,2.0,Rhodes,Plane,7.0,June,FourStars,"Hotel Paradise Beach, Rhodes",70,79
+Education,3098.0,2.0,Rhodes,Plane,14.0,September,FourStars,"Hotel Paradise Beach, Rhodes",84,96
+Education,2068.0,4.0,England,Car,14.0,June,HolidayFlat,H.Flat England,46,44
+Language,3582.0,6.0,England,Car,21.0,July,HolidayFlat,H.Flat England,81,9
+Language,2398.0,8.0,England,Car,14.0,August,HolidayFlat,H.Flat England,47,43
+Recreation,2298.0,7.0,England,Car,14.0,September,HolidayFlat,H.Flat England,74,60
+Recreation,3297.0,6.0,England,Car,21.0,July,HolidayFlat,H.Flat England,74,3
+Education,3208.0,8.0,Ireland,Car,14.0,August,HolidayFlat,H.Flat Ireland,85,41
+Language,2592.0,6.0,Ireland,Car,21.0,June,HolidayFlat,H.Flat Ireland,86,81
+Language,2048.0,7.0,Ireland,Car,14.0,July,HolidayFlat,H.Flat Ireland,84,80
+Recreation,2388.0,4.0,Ireland,Car,14.0,August,HolidayFlat,H.Flat Ireland,14,62
+Recreation,2457.0,8.0,Ireland,Car,21.0,September,HolidayFlat,H.Flat Ireland,16,83
+Education,2458.0,3.0,Scotland,Car,14.0,June,HolidayFlat,H.Flat Scotland,81,72
+Language,3282.0,2.0,Scotland,Car,21.0,July,HolidayFlat,H.Flat Scotland,3,15
+Language,3878.0,6.0,Scotland,Car,14.0,August,HolidayFlat,H.Flat Scotland,23,86
+Recreation,2738.0,2.0,Scotland,Car,14.0,September,HolidayFlat,H.Flat Scotland,69,85
+Recreation,2248.0,2.0,Scotland,Car,21.0,July,HolidayFlat,H.Flat Scotland,31,48
+Education,1808.0,5.0,Wales,Car,14.0,June,HolidayFlat,H.Flat Wales,36,44
+Language,3732.0,5.0,Wales,Car,21.0,July,HolidayFlat,H.Flat Wales,5,13
+Language,2628.0,6.0,Wales,Car,14.0,August,HolidayFlat,H.Flat Wales,64,12
+Recreation,1888.0,6.0,Wales,Car,14.0,September,HolidayFlat,H.Flat Wales,47,1
+Recreation,3297.0,6.0,Wales,Car,21.0,July,HolidayFlat,H.Flat Wales,81,38
+Bathing,1408.0,6.0,NorthSea,Car,14.0,June,HolidayFlat,"H.Flat North Sea, Holland",97,20
+Bathing,649.0,5.0,NorthSea,Car,7.0,July,HolidayFlat,"H.Flat North Sea, Holland",18,54
+Bathing,1478.0,3.0,NorthSea,Car,14.0,August,HolidayFlat,"H.Flat North Sea, Holland",80,88
+Active,1598.0,4.0,NorthSea,Car,14.0,July,HolidayFlat,"H.Flat North Sea, Holland",50,90
+Recreation,559.0,6.0,NorthSea,Train,7.0,August,HolidayFlat,"H.Flat North Sea, Holland",19,30
+Recreation,1198.0,3.0,NorthSea,Train,14.0,September,HolidayFlat,"H.Flat North Sea, Holland",49,61
+Active,514.0,5.0,NorthSea,Coach,7.0,June,HolidayFlat,"H.Flat North Sea, Holland",59,3
+Bathing,474.0,5.0,NorthSea,Car,3.0,June,HolidayFlat,"H.Flat North Sea, Holland",2,61
+Bathing,539.0,4.0,NorthSea,Car,3.0,May,HolidayFlat,"H.Flat North Sea, Holland",21,95
+Bathing,329.0,6.0,NorthSea,Car,3.0,June,HolidayFlat,"H.Flat North Sea, Holland",48,92
+Active,3280.0,4.0,Holland,Car,14.0,April,HolidayFlat,"Park Gran Dorado, Holland",26,1
+Active,790.0,2.0,Holland,Train,7.0,May,HolidayFlat,"Park Gran Dorado, Holland",57,3
+Active,2620.0,4.0,Holland,Train,14.0,June,HolidayFlat,"Park Gran Dorado, Holland",75,45
+Active,1900.0,5.0,Holland,Train,14.0,October,HolidayFlat,"Park Gran Dorado, Holland",50,10
+Recreation,2760.0,4.0,Holland,Train,14.0,July,HolidayFlat,"Park Gran Dorado, Holland",35,84
+Recreation,1580.0,6.0,Holland,Coach,7.0,August,HolidayFlat,"Park Gran Dorado, Holland",59,28
+Recreation,2468.0,2.0,Holland,Coach,14.0,September,HolidayFlat,"Park Gran Dorado, Holland",88,43
+Recreation,2780.0,4.0,Holland,Coach,14.0,July,HolidayFlat,"Park Gran Dorado, Holland",95,41
+Recreation,485.0,2.0,Holland,Coach,3.0,May,HolidayFlat,"Park Gran Dorado, Holland",44,90
+Recreation,735.0,4.0,Holland,Coach,4.0,June,HolidayFlat,"Park Gran Dorado, Holland",82,80
+Recreation,705.0,6.0,Holland,Coach,3.0,September,HolidayFlat,"Park Gran Dorado, Holland",81,99
+Bathing,1438.0,2.0,AdriaticSea,Car,14.0,June,TwoStars,"Hotel Mexico, Adriatic Sea",54,87
+Bathing,1375.0,3.0,AdriaticSea,Car,7.0,July,TwoStars,"Hotel Tropic, Adriatic Sea",43,5
+Bathing,1547.0,4.0,AdriaticSea,Car,14.0,August,TwoStars,"Hotel Mexico, Adriatic Sea",40,60
+Bathing,1238.0,2.0,AdriaticSea,Car,14.0,September,TwoStars,"Hotel Mexico, Adriatic Sea",92,61
+Bathing,2311.0,3.0,AdriaticSea,Car,14.0,August,TwoStars,"Hotel Tropic, Adriatic Sea",6,58
+Active,1193.0,3.0,AdriaticSea,Car,7.0,July,TwoStars,"Hotel Sporting, Adriatic Sea",9,85
+Recreation,1758.0,2.0,AdriaticSea,Car,21.0,May,TwoStars,"Hotel Sporting, Adriatic Sea",15,28
+Bathing,1678.0,2.0,AdriaticSea,Car,14.0,July,ThreeStars,"Hotel Nautilus, Adriatic Sea",47,57
+Bathing,1349.0,4.0,AdriaticSea,Car,7.0,August,ThreeStars,"Hotel Nautilus, Adriatic Sea",10,8
+Recreation,1278.0,2.0,AdriaticSea,Car,14.0,June,ThreeStars,"Hotel Nautilus, Adriatic Sea",43,89
+Bathing,679.0,6.0,AdriaticSea,Car,7.0,June,HolidayFlat,H.Flat Adriatic Sea,54,32
+Bathing,699.0,4.0,AdriaticSea,Car,7.0,July,HolidayFlat,H.Flat Adriatic Sea,93,57
+Bathing,1139.0,5.0,AdriaticSea,Car,7.0,August,HolidayFlat,H.Flat Adriatic Sea,4,45
+Bathing,439.0,6.0,AdriaticSea,Car,14.0,September,HolidayFlat,H.Flat Adriatic Sea,12,25
+Bathing,598.0,2.0,AdriaticSea,Car,14.0,May,HolidayFlat,H.Flat Adriatic Sea,54,43
+Bathing,1538.0,3.0,AdriaticSea,Car,14.0,July,HolidayFlat,H.Flat Adriatic Sea,12,2
+Active,998.0,4.0,AdriaticSea,Car,14.0,June,HolidayFlat,H.Flat Adriatic Sea,10,11
+Active,1359.0,8.0,AdriaticSea,Car,7.0,August,HolidayFlat,H.Flat Adriatic Sea,68,81
+Recreation,798.0,3.0,AdriaticSea,Car,14.0,September,HolidayFlat,H.Flat Adriatic Sea,5,43
+Recreation,399.0,6.0,AdriaticSea,Car,7.0,June,HolidayFlat,H.Flat Adriatic Sea,85,80
+Recreation,1608.0,2.0,LakeGarda,Car,14.0,May,TwoStars,"Hotel Palme, Lake Garda",33,26
+Recreation,1838.0,2.0,LakeGarda,Car,14.0,June,TwoStars,"Hotel Marco Polo, Lake Garda",98,93
+Recreation,1593.0,4.0,LakeGarda,Car,7.0,July,TwoStars,"Hotel Palme, Lake Garda",55,96
+Bathing,2897.0,3.0,LakeGarda,Car,14.0,August,ThreeStars,"Hotel Excelsior Bay, Lake Garda",24,96
+Active,1098.0,2.0,LakeGarda,Car,7.0,September,ThreeStars,"Hotel Excelsior Bay, Lake Garda",50,89
+Active,2897.0,3.0,LakeGarda,Car,14.0,June,ThreeStars,"Hotel Royal, Lake Garda",53,92
+Wandering,5497.0,3.0,LakeGarda,Car,21.0,July,ThreeStars,"Hotel Royal, Lake Garda",38,38
+Recreation,2118.0,2.0,LakeGarda,Car,14.0,September,FourStars,"Hotel Olimpo, Lake Garda",67,55
+Recreation,3138.0,2.0,LakeGarda,Car,21.0,May,FourStars,"Hotel Olimpo, Lake Garda",85,69
+Wandering,3678.0,3.0,LakeGarda,Car,14.0,July,FourStars,"Hotel Leonardo, Lake Garda",91,68
+Recreation,798.0,4.0,LakeGarda,Car,14.0,May,HolidayFlat,"H.Flat Gardasee, Italy",92,21
+Recreation,1398.0,5.0,LakeGarda,Car,14.0,June,HolidayFlat,"H.Flat Gardasee, Italy",28,84
+Recreation,479.0,6.0,LakeGarda,Car,7.0,July,HolidayFlat,"H.Flat Gardasee, Italy",60,97
+Recreation,624.0,2.0,LakeGarda,Car,7.0,August,HolidayFlat,"H.Flat Gardasee, Italy",53,95
+Active,579.0,3.0,LakeGarda,Car,7.0,September,HolidayFlat,"H.Flat Gardasee, Italy",41,20
+Active,884.0,6.0,LakeGarda,Car,7.0,July,HolidayFlat,"H.Flat Gardasee, Italy",23,45
+Active,928.0,2.0,LakeGarda,Car,14.0,June,HolidayFlat,"H.Flat Gardasee, Italy",74,90
+Bathing,1099.0,3.0,LakeGarda,Car,7.0,August,HolidayFlat,"H.Flat Gardasee, Italy",72,20
+Wandering,599.0,4.0,LakeGarda,Car,7.0,September,HolidayFlat,"H.Flat Gardasee, Italy",78,34
+Wandering,1078.0,2.0,LakeGarda,Car,14.0,June,HolidayFlat,"H.Flat Gardasee, Italy",38,56
+Bathing,1178.0,2.0,Riviera,Car,14.0,July,OneStar,"Hotel Tritone, Ital. Riviera",68,90
+Bathing,622.0,3.0,Riviera,Car,7.0,August,OneStar,"Hotel Tritone, Ital. Riviera",51,79
+Recreation,648.0,2.0,Riviera,Car,7.0,April,TwoStars,"Hotel Al Sole, Ital. Riviera",9,29
+Recreation,1508.0,2.0,Riviera,Car,14.0,June,TwoStars,"Hotel Al Sole, Ital. Riviera",63,6
+Bathing,747.0,3.0,Riviera,Car,7.0,September,TwoStars,"Hotel La Vela, Ital. Riviera",56,2
+Bathing,2222.0,4.0,Riviera,Car,14.0,July,TwoStars,"Hotel La Vela, Ital. Riviera",26,60
+Bathing,869.0,5.0,Riviera,Car,7.0,July,HolidayFlat,"H.Flat Riviera, Italy",36,27
+Bathing,484.0,3.0,Riviera,Car,7.0,August,HolidayFlat,"H.Flat Riviera, Italy",5,35
+Bathing,599.0,2.0,Riviera,Car,14.0,September,HolidayFlat,"H.Flat Riviera, Italy",9,32
+Bathing,2678.0,4.0,Riviera,Car,14.0,August,HolidayFlat,"H.Flat Riviera, Italy",99,88
+Bathing,1738.0,3.0,Riviera,Car,14.0,July,HolidayFlat,"H.Flat Riviera, Italy",92,99
+Recreation,429.0,6.0,Riviera,Car,7.0,June,HolidayFlat,"H.Flat Riviera, Italy",68,42
+Recreation,1088.0,6.0,Riviera,Car,14.0,May,HolidayFlat,"H.Flat Riviera, Italy",16,61
+Active,529.0,4.0,Riviera,Car,7.0,June,HolidayFlat,"H.Flat Riviera, Italy",52,13
+Active,1588.0,2.0,Riviera,Car,14.0,July,HolidayFlat,"H.Flat Riviera, Italy",99,95
+Wandering,1258.0,2.0,Tyrol,Car,14.0,June,TwoStars,"Pension garni Toni, South Tyrol",23,27
+Recreation,822.0,3.0,Tyrol,Car,7.0,May,TwoStars,"Pension garni Toni, South Tyrol",68,62
+Wandering,1499.0,3.0,Tyrol,Car,14.0,July,ThreeStars,"Hotel Untersteinerhof, South Tyrol",91,92
+Wandering,718.0,2.0,Tyrol,Car,7.0,September,ThreeStars,"Hotel Untersteinerhof, South Tyrol",86,64
+Recreation,1528.0,2.0,Tyrol,Car,14.0,August,ThreeStars,"Gasthof Adler, South Tyrol",4,97
+Active,798.0,2.0,Tyrol,Car,7.0,July,ThreeStars,"Gasthof Adler, South Tyrol",12,32
+Wandering,1479.0,3.0,Tyrol,Car,7.0,June,FourStars,"Posthotel Weisses Roessel, South Tyrol",16,55
+Wandering,2658.0,2.0,Tyrol,Car,14.0,July,FourStars,"Posthotel Weisses Roessel, South Tyrol",62,83
+Recreation,1997.0,4.0,Tyrol,Car,7.0,September,FourStars,"Hotel Nido, South Tyrol",41,91
+Recreation,2888.0,2.0,Tyrol,Car,14.0,June,FourStars,"Hotel Nido, South Tyrol",98,4
+Wandering,439.0,4.0,Tyrol,Car,7.0,June,HolidayFlat,"H.Flat Tirol, Italy",94,83
+Wandering,319.0,3.0,Tyrol,Car,7.0,July,HolidayFlat,"H.Flat Tirol, Italy",72,59
+Recreation,769.0,6.0,Tyrol,Car,7.0,August,HolidayFlat,"H.Flat Tirol, Italy",57,29
+Recreation,1398.0,4.0,Tyrol,Car,14.0,September,HolidayFlat,"H.Flat Tirol, Italy",79,16
+Active,559.0,4.0,Tyrol,Car,7.0,May,HolidayFlat,"H.Flat Tirol, Italy",27,87
+Language,2039.0,1.0,Malta,Plane,21.0,September,TwoStars,"Sprachkurs, Malta",21,96
+Language,4078.0,2.0,Malta,Plane,21.0,July,TwoStars,"Sprachkurs, Malta",73,18
+Language,1539.0,1.0,Malta,Plane,14.0,August,TwoStars,"Sprachkurs, Malta",21,4
+Bathing,1598.0,2.0,Malta,Plane,14.0,June,TwoStars,"Hotel Viking, Malta",83,32
+Language,2039.0,1.0,Malta,Plane,21.0,September,ThreeStars,"Sprachkurs, Malta",81,7
+Bathing,3637.0,3.0,Malta,Plane,14.0,July,ThreeStars,"Hotel Calypso, Malta",83,77
+Bathing,4476.0,4.0,Malta,Plane,14.0,August,ThreeStars,"Hotel Calypso, Malta",3,65
+Bathing,4729.0,3.0,Malta,Plane,21.0,July,ThreeStars,"Hotel Calypso, Malta",51,43
+Active,3078.0,2.0,Malta,Plane,14.0,September,ThreeStars,"Hotel Atlantis, Malta",60,41
+Recreation,3518.0,2.0,Malta,Plane,21.0,May,ThreeStars,"Hotel Atlantis, Malta",37,82
+Bathing,4147.0,3.0,Malta,Plane,14.0,August,FourStars,"Hotel Suncrest, Malta",26,47
+Bathing,3978.0,2.0,Malta,Plane,21.0,June,FourStars,"Hotel Suncrest, Malta",26,67
+Active,3267.0,4.0,Malta,Plane,7.0,July,FourStars,"Hotel Suncrest, Malta",41,56
+Active,4391.0,3.0,Malta,Plane,14.0,August,FourStars,"Hotel Cornucopia, Malta",69,97
+Recreation,3278.0,2.0,Malta,Plane,14.0,May,FourStars,"Hotel Cornucopia, Malta",59,71
+Wandering,1008.0,2.0,Carinthia,Car,14.0,May,TwoStars,"Pension Linde, Carinthia",95,35
+Wandering,538.0,3.0,Carinthia,Car,7.0,June,TwoStars,"Pension Linde, Carinthia",4,16
+Recreation,1472.0,3.0,Carinthia,Car,14.0,July,TwoStars,"Pension Seehof, Carinthia",98,1
+Recreation,1438.0,2.0,Carinthia,Car,21.0,August,TwoStars,"Pension Seehof, Carinthia",56,70
+Wandering,1498.0,2.0,Carinthia,Car,14.0,September,ThreeStars,"Aktivhotel Alte Muehle, Carinthia",34,61
+Wandering,1326.0,5.0,Carinthia,Car,7.0,August,ThreeStars,"Ferienhotel Eichenhof, Carinthia",79,42
+Wandering,1247.0,3.0,Carinthia,Car,7.0,July,ThreeStars,"Ferienhotel Eichenhof, Carinthia",30,65
+Recreation,1058.0,2.0,Carinthia,Car,7.0,June,ThreeStars,"Hotel Ebner, Carinthia",90,8
+Recreation,1698.0,2.0,Carinthia,Car,14.0,May,ThreeStars,"Hotel Ebner, Carinthia",54,19
+Active,2572.0,3.0,Carinthia,Car,14.0,July,ThreeStars,"Aktivhotel Alte Muehle, Carinthia",63,15
+Wandering,499.0,4.0,Carinthia,Car,7.0,May,HolidayFlat,H.Flat Kaernten,78,50
+Wandering,1049.0,6.0,Carinthia,Car,7.0,June,HolidayFlat,H.Flat Kaernten,38,92
+Wandering,779.0,4.0,Carinthia,Car,7.0,July,HolidayFlat,H.Flat Kaernten,80,96
+Wandering,1858.0,3.0,Carinthia,Car,14.0,August,HolidayFlat,H.Flat Kaernten,36,48
+Recreation,1149.0,6.0,Carinthia,Car,7.0,September,HolidayFlat,H.Flat Kaernten,12,68
+Recreation,559.0,3.0,Carinthia,Car,7.0,May,HolidayFlat,H.Flat Kaernten,1,27
+Recreation,1073.0,2.0,Carinthia,Car,14.0,June,HolidayFlat,H.Flat Kaernten,25,67
+Recreation,1358.0,3.0,Carinthia,Car,14.0,July,HolidayFlat,H.Flat Kaernten,80,37
+Active,829.0,6.0,Carinthia,Car,7.0,August,HolidayFlat,H.Flat Kaernten,68,30
+Active,579.0,4.0,Carinthia,Car,7.0,September,HolidayFlat,H.Flat Kaernten,42,53
+Wandering,778.0,2.0,SalzbergerLand,Car,14.0,May,TwoStars,"Pension Claudia, Salzb. Land",44,44
+Recreation,418.0,2.0,SalzbergerLand,Car,7.0,June,TwoStars,"Pension Claudia, Salzb. Land",85,3
+Wandering,1572.0,3.0,SalzbergerLand,Car,14.0,July,ThreeStars,"Hotel Tauernhof, Salzb. Land",1,2
+Active,837.0,4.0,SalzbergerLand,Car,7.0,August,ThreeStars,"Hotel Tauernhof, Salzb. Land",38,17
+Wandering,718.0,2.0,SalzbergerLand,Car,7.0,September,ThreeStars,"Gasthof Bachschmied, Salzb. Land",36,99
+Recreation,2038.0,2.0,SalzbergerLand,Car,21.0,May,ThreeStars,"Gasthof Bachschmied, Salzb. Land",31,29
+Wandering,1538.0,3.0,SalzbergerLand,Car,14.0,June,FourStars,"Hotel Eschbacher, Salzb. Land",98,98
+Recreation,2322.0,3.0,SalzbergerLand,Car,14.0,July,FourStars,"Hotel Eschbacher, Salzb. Land",1,74
+Wandering,2127.0,4.0,SalzbergerLand,Car,7.0,August,FourStars,"Hotel Norica, Salzb. Land",23,63
+Active,2627.0,3.0,SalzbergerLand,Car,14.0,September,FourStars,"Hotel Norica, Salzb. Land",13,68
+Wandering,1798.0,2.0,SalzbergerLand,Car,7.0,July,FiveStars,"Alpnerresidenz, Salzb. Land",44,12
+Recreation,1518.0,2.0,SalzbergerLand,Car,7.0,June,FiveStars,"Alpnerresidenz, Salzb. Land",28,53
+Wandering,684.0,4.0,SalzbergerLand,Car,7.0,May,HolidayFlat,H.Flat Salzb. Land,99,51
+Wandering,729.0,6.0,SalzbergerLand,Car,7.0,June,HolidayFlat,H.Flat Salzb. Land,96,73
+Wandering,699.0,4.0,SalzbergerLand,Car,7.0,July,HolidayFlat,H.Flat Salzb. Land,21,4
+Wandering,349.0,2.0,SalzbergerLand,Car,14.0,August,HolidayFlat,H.Flat Salzb. Land,89,3
+Recreation,354.0,3.0,SalzbergerLand,Car,7.0,September,HolidayFlat,H.Flat Salzb. Land,54,12
+Recreation,399.0,2.0,SalzbergerLand,Car,7.0,August,HolidayFlat,H.Flat Salzb. Land,6,19
+Recreation,719.0,6.0,SalzbergerLand,Car,7.0,July,HolidayFlat,H.Flat Salzb. Land,74,40
+Recreation,1223.0,4.0,SalzbergerLand,Car,14.0,June,HolidayFlat,H.Flat Salzb. Land,98,33
+Active,484.0,3.0,SalzbergerLand,Car,7.0,July,HolidayFlat,H.Flat Salzb. Land,78,59
+Active,1228.0,4.0,SalzbergerLand,Car,14.0,June,HolidayFlat,H.Flat Salzb. Land,3,89
+Wandering,898.0,2.0,Styria,Car,14.0,June,TwoStars,"Gasthof Mayer, Styria",29,82
+Recreation,478.0,3.0,Styria,Car,7.0,May,TwoStars,"Gasthof Mayer, Styria",72,91
+Wandering,2372.0,3.0,Styria,Car,14.0,July,ThreeStars,"Hotel Berghof, Styria",97,68
+Wandering,1227.0,4.0,Styria,Car,7.0,August,ThreeStars,"Hotel Berghof, Styria",27,15
+Active,1578.0,2.0,Styria,Car,14.0,September,ThreeStars,"Hotel Berghof, Styria",67,14
+Wandering,847.0,3.0,Styria,Car,7.0,May,FourStars,"Hotel Haeuserl am Wald, Styria",47,3
+Recreation,678.0,2.0,Styria,Car,7.0,June,FourStars,"Hotel Haeuserl am Wald, Styria",67,72
+Wandering,379.0,2.0,Styria,Car,7.0,July,HolidayFlat,H.Flat Styria,87,89
+Wandering,369.0,4.0,Styria,Car,7.0,August,HolidayFlat,H.Flat Styria,20,83
+Wandering,708.0,2.0,Styria,Car,14.0,September,HolidayFlat,H.Flat Styria,30,65
+Recreation,569.0,6.0,Styria,Car,7.0,August,HolidayFlat,H.Flat Styria,74,6
+Recreation,379.0,4.0,Styria,Car,7.0,July,HolidayFlat,H.Flat Styria,67,61
+Recreation,429.0,4.0,Styria,Car,7.0,June,HolidayFlat,H.Flat Styria,87,36
+Recreation,348.0,2.0,Styria,Car,14.0,May,HolidayFlat,H.Flat Styria,35,4
+Active,909.0,4.0,Styria,Car,7.0,July,HolidayFlat,H.Flat Styria,45,32
+Wandering,548.0,2.0,Tyrol,Car,7.0,May,OneStar,"Gasthof Edelweiss, Tyrol",64,41
+Wandering,685.0,3.0,Tyrol,Car,7.0,June,OneStar,"Gasthof Edelweiss, Tyrol",38,30
+Wandering,897.0,4.0,Tyrol,Car,7.0,July,TwoStars,"Gasthof Post, Tyrol",79,35
+Wandering,2322.0,3.0,Tyrol,Car,14.0,August,TwoStars,"Pension Tannenhof, Tyrol",60,63
+Recreation,698.0,2.0,Tyrol,Car,7.0,September,TwoStars,"Gasthof Sonne, Tyrol",20,84
+Wandering,798.0,2.0,Tyrol,Car,7.0,August,ThreeStars,"Gasthof Panorama, Tyrol",70,18
+Wandering,1808.0,2.0,Tyrol,Car,14.0,July,ThreeStars,"Gasthof Panorama, Tyrol",18,30
+Recreation,1972.0,3.0,Tyrol,Car,14.0,June,ThreeStars,"Ferienhotel Neuwirt, Tyrol",1,61
+Active,818.0,2.0,Tyrol,Car,7.0,June,ThreeStars,"Ferienhotel Neuwirt, Tyrol",86,7
+Wandering,738.0,2.0,Tyrol,Car,7.0,May,FourStars,"Hotel Wastlhof, Tyrol",44,48
+Wandering,3267.0,4.0,Tyrol,Car,14.0,July,FourStars,"Hotel Klausen, Tyrol",75,21
+Recreation,1571.0,5.0,Tyrol,Car,7.0,August,FourStars,"Hotel Unterwirt, Tyrol",66,31
+Wandering,1198.0,2.0,Tyrol,Car,7.0,September,FiveStars,"Hotel Alpenresidence, Tyrol",27,92
+Recreation,1847.0,3.0,Tyrol,Car,7.0,July,FiveStars,"Hotel Alpenresidence, Tyrol",71,2
+Active,3098.0,3.0,Tyrol,Car,14.0,August,FiveStars,Aparthotel Hopfgarten,13,36
+Wandering,449.0,3.0,Tyrol,Car,7.0,May,HolidayFlat,H.Flat Tyrol,42,23
+Wandering,654.0,5.0,Tyrol,Car,7.0,June,HolidayFlat,H.Flat Tyrol,52,84
+Wandering,539.0,4.0,Tyrol,Car,7.0,July,HolidayFlat,H.Flat Tyrol,78,60
+Wandering,609.0,5.0,Tyrol,Car,7.0,August,HolidayFlat,H.Flat Tyrol,64,81
+Wandering,484.0,2.0,Tyrol,Car,7.0,September,HolidayFlat,H.Flat Tyrol,25,51
+Wandering,789.0,6.0,Tyrol,Car,7.0,August,HolidayFlat,H.Flat Tyrol,9,73
+Wandering,838.0,3.0,Tyrol,Car,14.0,July,HolidayFlat,H.Flat Tyrol,93,86
+Wandering,728.0,2.0,Tyrol,Car,14.0,June,HolidayFlat,H.Flat Tyrol,68,11
+Recreation,729.0,5.0,Tyrol,Car,7.0,May,HolidayFlat,H.Flat Tyrol,39,6
+Recreation,849.0,6.0,Tyrol,Car,7.0,June,HolidayFlat,H.Flat Tyrol,16,44
+Recreation,494.0,3.0,Tyrol,Car,7.0,July,HolidayFlat,H.Flat Tyrol,83,53
+Recreation,599.0,5.0,Tyrol,Car,7.0,August,HolidayFlat,H.Flat Tyrol,34,22
+Recreation,688.0,2.0,Tyrol,Car,14.0,September,HolidayFlat,H.Flat Tyrol,74,94
+Active,789.0,7.0,Tyrol,Car,7.0,June,HolidayFlat,H.Flat Tyrol,12,42
+Active,1538.0,4.0,Tyrol,Car,14.0,July,HolidayFlat,H.Flat Tyrol,17,77
+Bathing,2518.0,2.0,Algarve,Plane,14.0,May,TwoStars,"Anlage Aldeia, Algarve",35,47
+Bathing,2562.0,3.0,Algarve,Plane,14.0,June,TwoStars,"Anlage Aldeia, Algarve",56,82
+Active,2371.0,3.0,Algarve,Plane,7.0,July,TwoStars,"Anlage Aldeia, Algarve",43,15
+Bathing,3271.0,3.0,Algarve,Plane,21.0,September,ThreeStars,"Hotel Tropico, Algarve",28,75
+Bathing,3398.0,2.0,Algarve,Plane,14.0,August,ThreeStars,"Hotel Tropico, Algarve",12,35
+Bathing,2998.0,2.0,Algarve,Plane,14.0,June,ThreeStars,"Hotel Tropico, Algarve",85,2
+Bathing,4253.0,4.0,Algarve,Plane,7.0,July,ThreeStars,"Hotel California, Algarve",68,56
+Bathing,3758.0,2.0,Algarve,Plane,14.0,September,ThreeStars,"Hotel California, Algarve",65,35
+Active,4885.0,3.0,Algarve,Plane,14.0,June,ThreeStars,"Hotel California, Algarve",20,19
+Active,3958.0,2.0,Algarve,Plane,21.0,May,ThreeStars,"Hotel California, Algarve",30,81
+Active,2678.0,2.0,Algarve,Plane,7.0,July,ThreeStars,"Eurotel Altura, Algarve",83,34
+Recreation,3078.0,2.0,Algarve,Plane,14.0,April,ThreeStars,"Eurotel Altura, Algarve",90,67
+Recreation,2158.0,2.0,Algarve,Plane,7.0,October,ThreeStars,"Eurotel Altura, Algarve",58,60
+Bathing,3642.0,3.0,Algarve,Plane,14.0,July,FourStars,"Hotel Neptuno, Algarve",90,9
+Active,4533.0,4.0,Algarve,Plane,14.0,August,FourStars,"Hotel Neptuno, Algarve",4,90
+Bathing,3518.0,2.0,Madeira,Plane,14.0,June,TwoStars,"Anlage Canico, Madeira",20,67
+Bathing,3440.0,3.0,Madeira,Plane,14.0,July,TwoStars,"Anlage Canico, Madeira",29,37
+Bathing,4126.0,3.0,Madeira,Plane,21.0,August,TwoStars,"Anlage Canico, Madeira",19,27
+Active,3518.0,2.0,Madeira,Plane,14.0,September,TwoStars,"Anlage Canico, Madeira",3,3
+Bathing,3238.0,2.0,Madeira,Plane,14.0,June,ThreeStars,"Hotel Mimosa, Madeira",95,58
+Bathing,4091.0,4.0,Madeira,Plane,7.0,July,ThreeStars,"Hotel Mimosa, Madeira",47,27
+Bathing,4452.0,3.0,Madeira,Plane,21.0,September,ThreeStars,"Hotel Mimosa, Madeira",86,48
+Active,3598.0,2.0,Madeira,Plane,14.0,August,ThreeStars,"Hotel Orca Praia, Madeira",70,74
+Active,4438.0,2.0,Madeira,Plane,21.0,September,ThreeStars,"Hotel Orca Praia, Madeira",92,95
+Recreation,4318.0,2.0,Madeira,Plane,21.0,May,ThreeStars,"Hotel Orca Praia, Madeira",70,83
+Recreation,3318.0,2.0,Madeira,Plane,14.0,October,ThreeStars,"Hotel Orca Praia, Madeira",46,38
+Bathing,2922.0,3.0,Madeira,Plane,7.0,July,FourStars,"Hotel Raga, Madeira",61,98
+Bathing,5225.0,4.0,Madeira,Plane,14.0,August,FourStars,"Hotel Raga, Madeira",86,54
+Active,3989.0,2.0,Madeira,Plane,14.0,June,FourStars,"Hotel Oasis Atlantic, Madeira",50,61
+Active,3897.0,3.0,Madeira,Plane,7.0,July,FourStars,"Hotel Oasis Atlantic, Madeira",41,17
+Recreation,469.0,4.0,Sweden,Car,7.0,June,HolidayFlat,H.Flat Sweden,92,44
+Recreation,799.0,6.0,Sweden,Car,7.0,July,HolidayFlat,H.Flat Sweden,57,57
+Recreation,519.0,5.0,Sweden,Car,7.0,August,HolidayFlat,H.Flat Sweden,59,36
+Recreation,539.0,4.0,Sweden,Car,7.0,September,HolidayFlat,H.Flat Sweden,51,58
+Recreation,989.0,6.0,Sweden,Car,7.0,October,HolidayFlat,H.Flat Sweden,22,83
+Recreation,649.0,6.0,Sweden,Car,7.0,August,HolidayFlat,H.Flat Sweden,29,51
+Recreation,779.0,4.0,Sweden,Car,7.0,July,HolidayFlat,H.Flat Sweden,36,69
+Recreation,1578.0,4.0,Sweden,Car,14.0,June,HolidayFlat,H.Flat Sweden,59,3
+Recreation,1538.0,4.0,Sweden,Car,14.0,July,HolidayFlat,H.Flat Sweden,84,97
+Recreation,1318.0,4.0,Sweden,Car,14.0,August,HolidayFlat,H.Flat Sweden,76,81
+Recreation,1178.0,6.0,Sweden,Car,14.0,September,HolidayFlat,H.Flat Sweden,91,60
+Wandering,639.0,6.0,Sweden,Car,7.0,June,HolidayFlat,H.Flat Sweden,52,90
+Wandering,799.0,6.0,Sweden,Car,7.0,July,HolidayFlat,H.Flat Sweden,17,13
+Wandering,789.0,4.0,Sweden,Car,7.0,August,HolidayFlat,H.Flat Sweden,44,70
+Wandering,938.0,4.0,Sweden,Car,14.0,September,HolidayFlat,H.Flat Sweden,81,14
+Wandering,764.0,3.0,Alps,Car,7.0,May,HolidayFlat,H.Flat Switzerland,45,52
+Wandering,494.0,2.0,Alps,Car,7.0,June,HolidayFlat,H.Flat Switzerland,58,59
+Wandering,989.0,6.0,Alps,Car,7.0,July,HolidayFlat,H.Flat Switzerland,31,45
+Wandering,799.0,4.0,Alps,Car,7.0,August,HolidayFlat,H.Flat Switzerland,61,19
+Wandering,839.0,2.0,Alps,Car,7.0,September,HolidayFlat,H.Flat Switzerland,45,99
+Wandering,799.0,3.0,Alps,Car,7.0,June,HolidayFlat,H.Flat Switzerland,74,7
+Wandering,779.0,6.0,Alps,Car,7.0,July,HolidayFlat,H.Flat Switzerland,65,49
+Wandering,529.0,4.0,Alps,Car,7.0,August,HolidayFlat,H.Flat Switzerland,40,50
+Wandering,858.0,3.0,Alps,Car,14.0,September,HolidayFlat,H.Flat Switzerland,4,12
+Wandering,1303.0,4.0,Alps,Car,14.0,June,HolidayFlat,H.Flat Switzerland,88,2
+Wandering,738.0,6.0,Alps,Car,14.0,May,HolidayFlat,H.Flat Switzerland,71,77
+Wandering,908.0,2.0,Alps,Car,14.0,July,HolidayFlat,H.Flat Switzerland,17,36
+Recreation,729.0,3.0,Alps,Car,7.0,May,HolidayFlat,H.Flat Switzerland,27,46
+Recreation,779.0,6.0,Alps,Car,7.0,June,HolidayFlat,H.Flat Switzerland,50,41
+Recreation,519.0,4.0,Alps,Car,7.0,July,HolidayFlat,H.Flat Switzerland,22,77
+Recreation,1184.0,4.0,Alps,Car,7.0,August,HolidayFlat,H.Flat Switzerland,51,46
+Recreation,629.0,2.0,Alps,Car,7.0,September,HolidayFlat,H.Flat Switzerland,11,15
+Recreation,858.0,3.0,Alps,Car,14.0,June,HolidayFlat,H.Flat Switzerland,7,23
+Recreation,1298.0,4.0,Alps,Car,14.0,July,HolidayFlat,H.Flat Switzerland,70,9
+Recreation,1958.0,6.0,Alps,Car,14.0,August,HolidayFlat,H.Flat Switzerland,61,13
+Bathing,1317.0,4.0,CostaBlanca,Car,7.0,August,TwoStars,"Hotel Torre Dorada, Costa Blanca",85,18
+Bathing,2800.0,3.0,CostaBlanca,Car,14.0,July,ThreeStars,"Hotel Galetamar, Costa Blanca",19,80
+Bathing,1058.0,2.0,CostaBlanca,Car,7.0,August,FourStars,"Hotel Roca Esmeralda, Costa Blanca",66,9
+Bathing,3222.0,3.0,CostaBlanca,Car,14.0,July,FourStars,"Hotel Roca Esmeralda, Costa Blanca",46,58
+Recreation,1014.0,10.0,CostaBlanca,Car,7.0,May,HolidayFlat,H.Flat Costa Blanca,77,28
+Recreation,539.0,4.0,CostaBlanca,Car,14.0,June,HolidayFlat,H.Flat Costa Blanca,4,47
+Active,1039.0,6.0,CostaBlanca,Car,7.0,July,HolidayFlat,H.Flat Costa Blanca,48,2
+Active,678.0,4.0,CostaBlanca,Car,14.0,September,HolidayFlat,H.Flat Costa Blanca,33,76
+Bathing,1039.0,8.0,CostaBlanca,Car,7.0,June,HolidayFlat,H.Flat Costa Blanca,58,89
+Bathing,2324.0,12.0,CostaBlanca,Car,7.0,July,HolidayFlat,H.Flat Costa Blanca,5,37
+Bathing,1229.0,2.0,CostaBlanca,Car,7.0,August,HolidayFlat,H.Flat Costa Blanca,73,9
+Bathing,789.0,5.0,CostaBlanca,Car,7.0,September,HolidayFlat,H.Flat Costa Blanca,19,64
+Bathing,649.0,3.0,CostaBlanca,Car,7.0,July,HolidayFlat,H.Flat Costa Blanca,94,78
+Bathing,1259.0,3.0,CostaBlanca,Car,7.0,August,HolidayFlat,H.Flat Costa Blanca,57,62
+Bathing,1038.0,4.0,CostaBlanca,Car,14.0,June,HolidayFlat,H.Flat Costa Blanca,83,3
+Bathing,1798.0,4.0,CostaBlanca,Car,14.0,July,HolidayFlat,H.Flat Costa Blanca,61,30
+Bathing,2038.0,8.0,CostaBlanca,Car,14.0,September,HolidayFlat,H.Flat Costa Blanca,31,84
+Bathing,1998.0,2.0,CostaBrava,Car,14.0,June,TwoStars,"Hotel La Huerta, Costa Brava",64,5
+Bathing,2550.0,3.0,CostaBrava,Car,14.0,July,TwoStars,"Hotel La Huerta, Costa Brava",49,44
+Active,2696.0,3.0,CostaBrava,Car,21.0,August,TwoStars,"Hotel Mar Eden, Costa Brava",51,49
+Recreation,1558.0,2.0,CostaBrava,Car,7.0,September,TwoStars,"Hotel Mar Eden, Costa Brava",25,17
+Bathing,2518.0,2.0,CostaBrava,Car,14.0,June,ThreeStars,"Hotel Surf Mar, Costa Brava",12,75
+Bathing,6971.0,4.0,CostaBrava,Car,21.0,August,ThreeStars,"Hotel Surf Mar, Costa Brava",41,75
+Bathing,3099.0,3.0,CostaBrava,Car,14.0,July,ThreeStars,"Hotel Surf Mar, Costa Brava",18,86
+Bathing,1738.0,2.0,CostaBrava,Car,7.0,July,ThreeStars,"Hotel Albatros, Costa Brava",4,44
+Active,2198.0,2.0,CostaBrava,Car,14.0,June,ThreeStars,"Hotel Albatros, Costa Brava",2,18
+Recreation,2360.0,3.0,CostaBrava,Car,14.0,May,ThreeStars,"Hotel Albatros, Costa Brava",14,42
+Bathing,2186.0,3.0,CostaBrava,Car,7.0,July,FourStars,"Hotel Olympic Park, Costa Brava",17,33
+Bathing,2418.0,2.0,CostaBrava,Car,14.0,June,FourStars,"Hotel Olympic Park, Costa Brava",24,74
+Bathing,3737.0,3.0,CostaBrava,Car,14.0,August,FourStars,"Hotel Olympic Park, Costa Brava",11,99
+Active,3048.0,2.0,CostaBrava,Car,21.0,September,FourStars,"Golden Hotel Port Salou, Costa Brava",39,61
+Recreation,3912.0,4.0,CostaBrava,Car,14.0,July,FourStars,"Golden Hotel Port Salou, Costa Brava",40,92
+Bathing,3528.0,2.0,Fuerteventura,Plane,14.0,May,ThreeStars,"Hotel Oliva Beach, Fuerteventura",44,92
+Bathing,4402.0,3.0,Fuerteventura,Plane,14.0,June,ThreeStars,"Hotel Oliva Beach, Fuerteventura",62,1
+Bathing,6357.0,3.0,Fuerteventura,Plane,21.0,July,ThreeStars,"Hotel Oliva Beach, Fuerteventura",89,97
+Bathing,3417.0,4.0,Fuerteventura,Plane,14.0,August,ThreeStars,"Appartm. Rio Tropical, Fuerteventura",3,54
+Active,2598.0,2.0,Fuerteventura,Plane,14.0,September,ThreeStars,"Appartm. Rio Tropical, Fuerteventura",89,39
+Active,2252.0,3.0,Fuerteventura,Plane,7.0,July,ThreeStars,"Appartm. Rio Tropical, Fuerteventura",56,99
+Active,3678.0,2.0,Fuerteventura,Plane,14.0,August,ThreeStars,"Hotel Crystal Beach, Fuerteventura",49,7
+Recreation,3578.0,2.0,Fuerteventura,Plane,14.0,June,ThreeStars,"Hotel Crystal Beach, Fuerteventura",73,50
+Bathing,7161.0,3.0,Fuerteventura,Plane,21.0,June,FourStars,"Hotel Rio Ventura, Fuerteventura",9,57
+Bathing,5709.0,3.0,Fuerteventura,Plane,14.0,July,FourStars,"Hotel Rio Ventura, Fuerteventura",89,86
+Bathing,6369.0,4.0,Fuerteventura,Plane,14.0,August,FourStars,"Hotel Rio Ventura, Fuerteventura",45,48
+Bathing,3188.0,2.0,Fuerteventura,Plane,7.0,June,FourStars,"Hotel Rio Ventura, Fuerteventura",36,29
+Active,3428.0,2.0,Fuerteventura,Plane,14.0,September,FourStars,"Hotel Rio Maxarota, Fuerteventura",98,76
+Active,4602.0,3.0,Fuerteventura,Plane,14.0,July,FourStars,"Hotel Rio Maxarota, Fuerteventura",10,75
+Recreation,3188.0,2.0,Fuerteventura,Plane,14.0,May,FourStars,"Hotel Rio Maxarota, Fuerteventura",66,81
+Bathing,2412.0,3.0,GranCanaria,Plane,14.0,May,TwoStars,"Studios Puerto Plata, Gran Canaria",24,13
+Bathing,3125.0,3.0,GranCanaria,Plane,21.0,July,TwoStars,"Studios Puerto Plata, Gran Canaria",28,4
+Bathing,2378.0,2.0,GranCanaria,Plane,14.0,September,TwoStars,"Studios Brisamar, Gran Canaria",98,30
+Active,3177.0,4.0,GranCanaria,Plane,14.0,August,TwoStars,"Studios Brisamar, Gran Canaria",45,80
+Bathing,2788.0,2.0,GranCanaria,Plane,14.0,May,ThreeStars,"Hotel Riosol, Gran Canaria",96,40
+Bathing,4100.0,3.0,GranCanaria,Plane,21.0,June,ThreeStars,"Hotel Riosol, Gran Canaria",5,52
+Bathing,2723.0,3.0,GranCanaria,Plane,7.0,July,ThreeStars,"Hotel Caserio, Gran Canaria",62,87
+Active,4261.0,3.0,GranCanaria,Plane,14.0,August,ThreeStars,"IFA Beach Hotel, Gran Canaria",24,19
+Active,3778.0,2.0,GranCanaria,Plane,21.0,September,ThreeStars,"IFA Beach Hotel, Gran Canaria",74,76
+Recreation,2508.0,2.0,GranCanaria,Plane,7.0,August,ThreeStars,"IFA Beach Hotel, Gran Canaria",9,25
+Bathing,3258.0,2.0,GranCanaria,Plane,14.0,June,FourStars,"Hotel Las Margaritas, Gran Canaria",23,85
+Bathing,4252.0,3.0,GranCanaria,Plane,14.0,July,FourStars,"Hotel Las Margaritas, Gran Canaria",55,61
+Bathing,3498.0,2.0,GranCanaria,Plane,21.0,September,FourStars,"Hotel Caserio, Gran Canaria",36,64
+Active,2848.0,2.0,GranCanaria,Plane,14.0,May,FourStars,"Hotel Caserio, Gran Canaria",52,12
+Active,3551.0,3.0,GranCanaria,Plane,14.0,August,FourStars,"Hotel Caserio, Gran Canaria",67,30
+Bathing,2078.0,2.0,Ibiza,Plane,14.0,June,TwoStars,"Pension Central, Ibiza",5,40
+Bathing,2498.0,2.0,Ibiza,Plane,21.0,September,TwoStars,"Pension Central, Ibiza",25,70
+Bathing,2427.0,3.0,Ibiza,Plane,14.0,July,TwoStars,"Hotel Llevant, Ibiza",70,99
+Active,2852.0,4.0,Ibiza,Plane,14.0,August,TwoStars,"Hotel Llevant, Ibiza",67,24
+Active,1995.0,3.0,Ibiza,Plane,7.0,July,TwoStars,"Hotel Llevant, Ibiza",97,92
+Bathing,2798.0,2.0,Ibiza,Plane,14.0,June,ThreeStars,"Hotel Helios II, Ibiza",96,40
+Bathing,2878.0,2.0,Ibiza,Plane,14.0,July,ThreeStars,"Hotel Helios II, Ibiza",75,62
+Bathing,3258.0,2.0,Ibiza,Plane,21.0,May,ThreeStars,"Hotel Helios II, Ibiza",80,12
+Bathing,2343.0,3.0,Ibiza,Plane,7.0,August,ThreeStars,"Hotel Atlantic, Ibiza",97,59
+Bathing,3217.0,3.0,Ibiza,Plane,14.0,June,ThreeStars,"Hotel Atlantic, Ibiza",76,85
+Active,4832.0,4.0,Ibiza,Plane,14.0,July,ThreeStars,"Hotel Atlantic, Ibiza",15,92
+Active,3558.0,2.0,Ibiza,Plane,21.0,September,ThreeStars,"Hotel Atlantic, Ibiza",40,42
+Bathing,4398.0,2.0,Ibiza,Plane,14.0,June,FourStars,"Club La Mola, Ibiza",85,40
+Bathing,4958.0,2.0,Ibiza,Plane,14.0,July,FourStars,"Club La Mola, Ibiza",63,54
+Active,2090.0,3.0,Ibiza,Plane,7.0,August,FourStars,"Hotel Nereida, Ibiza",36,29
+Bathing,1558.0,2.0,Mallorca,Plane,14.0,June,OneStar,"Pension Marina, Mallorca",60,22
+Bathing,2397.0,3.0,Mallorca,Plane,14.0,July,OneStar,"Pension Marina, Mallorca",42,79
+Bathing,2481.0,2.0,Mallorca,Plane,21.0,September,OneStar,"Pension El Golea, Mallorca",9,55
+Bathing,1718.0,2.0,Mallorca,Plane,14.0,June,TwoStars,"Pension Alcina, Mallorca",92,40
+Bathing,2410.0,4.0,Mallorca,Plane,7.0,August,TwoStars,"Pension Alcina, Mallorca",65,93
+Recreation,1285.0,3.0,Mallorca,Plane,4.0,May,TwoStars,"Hotel Manaus, Mallorca",97,33
+Active,1798.0,2.0,Mallorca,Plane,14.0,June,TwoStars,"Hotel Vaquer, Mallorca",57,5
+Wandering,1676.0,3.0,Mallorca,Plane,7.0,September,TwoStars,"Hotel Vaquer, Mallorca",4,23
+Bathing,2198.0,2.0,Mallorca,Plane,14.0,June,ThreeStars,"Hotel Samu, Mallorca",5,40
+Bathing,3530.0,4.0,Mallorca,Plane,14.0,July,ThreeStars,"Hotel Samu, Mallorca",92,92
+Bathing,1607.0,3.0,Mallorca,Plane,4.0,August,ThreeStars,"Hotel Flamingo, Mallorca",13,16
+Bathing,3697.0,3.0,Mallorca,Plane,14.0,July,ThreeStars,"Hotel Sol Lux, Mallorca",73,55
+Bathing,1858.0,2.0,Mallorca,Plane,7.0,August,ThreeStars,"Hotel Sol Lux, Mallorca",87,65
+Bathing,2598.0,3.0,Mallorca,Plane,14.0,September,ThreeStars,"Hotel Saturno, Mallorca",21,58
+Active,3058.0,2.0,Mallorca,Plane,21.0,May,ThreeStars,"Hotel Saturno, Mallorca",41,23
+Bathing,1478.0,2.0,Mallorca,Plane,4.0,June,FourStars,"Hotel Gran Fiesta, Mallorca",83,34
+Bathing,3644.0,4.0,Mallorca,Plane,7.0,July,FourStars,"Anlage Lago Playa, Mallorca",67,84
+Bathing,3605.0,3.0,Mallorca,Plane,14.0,August,FourStars,"Anlage Lago Playa, Mallorca",49,76
+Active,2678.0,2.0,Mallorca,Plane,14.0,June,FourStars,"Lagotel-Club, Mallorca",77,61
+Active,1898.0,2.0,Mallorca,Plane,7.0,September,FourStars,"Lagotel-Club, Mallorca",2,37
+Bathing,3417.0,3.0,Teneriffe,Plane,14.0,June,TwoStars,"Studios Mare Verde, Teneriffe",22,7
+Bathing,2698.0,2.0,Teneriffe,Plane,21.0,September,TwoStars,"Studios Mare Verde, Teneriffe",41,33
+Bathing,3837.0,3.0,Teneriffe,Plane,14.0,July,ThreeStars,"Appartm. Parque Royal, Teneriffe",50,67
+Bathing,3507.0,4.0,Teneriffe,Plane,14.0,August,ThreeStars,"Appartm. Parque Royal, Teneriffe",45,77
+Bathing,2278.0,2.0,Teneriffe,Plane,14.0,June,ThreeStars,"Appartm. Parque Royal, Teneriffe",58,97
+Bathing,3194.0,3.0,Teneriffe,Plane,14.0,August,ThreeStars,"Hotel Las Pyramides, Teneriffe",15,12
+Bathing,2858.0,2.0,Teneriffe,Plane,14.0,July,ThreeStars,"Hotel Las Pyramides, Teneriffe",27,85
+Bathing,2068.0,2.0,Teneriffe,Plane,7.0,May,ThreeStars,"Hotel Las Pyramides, Teneriffe",12,64
+Active,3278.0,2.0,Teneriffe,Plane,21.0,June,ThreeStars,"Hotel Internacional, Teneriffe",98,14
+Recreation,2178.0,2.0,Teneriffe,Plane,7.0,October,ThreeStars,"Hotel Internacional, Teneriffe",61,47
+Bathing,4011.0,3.0,Teneriffe,Plane,14.0,August,FourStars,"Hotel Sol, Teneriffe",91,11
+Bathing,4287.0,3.0,Teneriffe,Plane,14.0,July,FourStars,"Hotel Sol, Teneriffe",10,95
+Bathing,2488.0,2.0,Teneriffe,Plane,7.0,June,FourStars,"Hotel Sol, Teneriffe",14,34
+Active,5532.0,4.0,Teneriffe,Plane,14.0,August,FourStars,"Hotel Florida, Teneriffe",32,5
+Active,4810.0,3.0,Teneriffe,Plane,21.0,May,FourStars,"Hotel Florida, Teneriffe",11,45
+Wandering,758.0,2.0,GiantMountains,Car,7.0,May,TwoStars,"Hotel Bedrichov, Giant Mountains",47,28
+Wandering,858.0,2.0,GiantMountains,Car,7.0,June,TwoStars,"Hotel Bedrichov, Giant Mountains",7,10
+Wandering,1118.0,4.0,GiantMountains,Car,7.0,July,TwoStars,"Hotel Energetik, Giant Mountains",11,86
+Wandering,1698.0,3.0,GiantMountains,Car,14.0,August,TwoStars,"Hotel Energetik, Giant Mountains",78,24
+Wandering,1138.0,2.0,GiantMountains,Car,14.0,September,TwoStars,"Hotel Karolina, Giant Mountains",15,76
+Recreation,798.0,2.0,GiantMountains,Car,7.0,August,TwoStars,"Hotel Karolina, Giant Mountains",45,45
+Recreation,678.0,3.0,GiantMountains,Car,7.0,July,TwoStars,"Waldhotel Trakce, Giant Mountains",2,3
+Recreation,938.0,2.0,GiantMountains,Car,7.0,June,ThreeStars,"Hotel Arnika, Giant Mountains",45,87
+Recreation,1498.0,2.0,GiantMountains,Car,14.0,May,ThreeStars,"Hotel Arnika, Giant Mountains",87,78
+Wandering,698.0,2.0,GiantMountains,Car,7.0,June,ThreeStars,"Hotel Horal, Giant Mountains",61,64
+Wandering,1806.0,3.0,GiantMountains,Car,14.0,September,ThreeStars,"Hotel Horal, Giant Mountains",20,67
+Wandering,807.0,3.0,GiantMountains,Coach,7.0,May,TwoStars,"Hotel Bedrichov, Giant Mountains",35,91
+Recreation,2274.0,4.0,GiantMountains,Coach,14.0,June,TwoStars,"Hotel Bedrichov, Giant Mountains",87,92
+Recreation,1185.0,3.0,GiantMountains,Train,7.0,August,ThreeStars,"Hotel Horal, Giant Mountains",79,79
+Wandering,698.0,2.0,GiantMountains,Train,7.0,September,ThreeStars,"Hotel Horal, Giant Mountains",29,59
+Bathing,2178.0,2.0,TurkishAegeanSea,Plane,14.0,June,TwoStars,"Hotel Villa Soel, Turk. Aegean Sea",65,7
+Bathing,2483.0,3.0,TurkishAegeanSea,Plane,14.0,July,TwoStars,"Hotel Villa Soel, Turk. Aegean Sea",21,87
+Bathing,4770.0,4.0,TurkishAegeanSea,Plane,21.0,August,ThreeStars,"Hotel Alinda, Turk. Aegean Sea",41,15
+Active,2578.0,2.0,TurkishAegeanSea,Plane,14.0,September,ThreeStars,"Hotel Alinda, Turk. Aegean Sea",2,26
+Active,3065.0,3.0,TurkishAegeanSea,Plane,7.0,July,ThreeStars,"Hotel Turunc, Turk. Aegean Sea",44,67
+Bathing,2758.0,2.0,TurkishAegeanSea,Plane,14.0,August,ThreeStars,"Hotel Turunc, Turk. Aegean Sea",5,98
+Education,2878.0,2.0,TurkishAegeanSea,Plane,14.0,May,FourStars,"Hotel Marti, Turk. Aegean Sea",31,76
+Bathing,1958.0,2.0,TurkishAegeanSea,Plane,14.0,June,TwoStars,"Hotel Talat, Turk. Aegean Sea",57,83
+Bathing,3171.0,3.0,TurkishAegeanSea,Plane,14.0,July,ThreeStars,"Club Pigale, Turk. Aegean Sea",31,30
+Bathing,2412.0,3.0,TurkishAegeanSea,Plane,7.0,August,ThreeStars,"Club Pigale, Turk. Aegean Sea",9,18
+Bathing,2878.0,2.0,TurkishAegeanSea,Plane,14.0,September,ThreeStars,"Hotel Batihan, Turk. Aegean Sea",37,88
+Education,3278.0,2.0,TurkishAegeanSea,Plane,21.0,May,ThreeStars,"Hotel Batihan, Turk. Aegean Sea",65,6
+Bathing,4313.0,4.0,TurkishAegeanSea,Plane,14.0,August,FourStars,"Hotel Biltur, Turk. Aegean Sea",95,94
+Bathing,3010.0,3.0,TurkishAegeanSea,Plane,7.0,July,FourStars,"Hotel Biltur, Turk. Aegean Sea",28,95
+Active,2918.0,2.0,TurkishAegeanSea,Plane,14.0,June,FourStars,"Club Ephesus Princess, Turk. Aegean Sea",21,89
+Bathing,2298.0,2.0,TurkishRiviera,Plane,14.0,June,TwoStars,"Hotel Alaiye, Turk. Riviera",12,59
+Bathing,2941.0,3.0,TurkishRiviera,Plane,14.0,July,TwoStars,"Hotel Alaiye, Turk. Riviera",62,6
+Active,3160.0,3.0,TurkishRiviera,Plane,21.0,September,TwoStars,"Hotel Alaiye, Turk. Riviera",64,73
+Bathing,4107.0,4.0,TurkishRiviera,Plane,14.0,August,ThreeStars,"Hotel Panorama, Turk. Riviera",94,88
+Bathing,2838.0,2.0,TurkishRiviera,Plane,14.0,July,ThreeStars,"Hotel Panorama, Turk. Riviera",76,39
+Bathing,2738.0,2.0,TurkishRiviera,Plane,14.0,June,ThreeStars,"Hotel Panorama, Turk. Riviera",24,65
+Bathing,2258.0,2.0,TurkishRiviera,Plane,7.0,August,ThreeStars,"Hotel Akropol, Turk. Riviera",7,54
+Bathing,3891.0,3.0,TurkishRiviera,Plane,21.0,June,ThreeStars,"Hotel Akropol, Turk. Riviera",9,63
+Active,3058.0,2.0,TurkishRiviera,Plane,14.0,September,ThreeStars,"Hotel Sueral Garden, Turk. Riviera",28,90
+Education,2698.0,2.0,TurkishRiviera,Plane,14.0,May,ThreeStars,"Hotel Sueral Garden, Turk. Riviera",38,68
+Bathing,3258.0,2.0,TurkishRiviera,Plane,14.0,June,FourStars,"Hotel Botanik, Turk. Riviera",58,92
+Bathing,3325.0,3.0,TurkishRiviera,Plane,7.0,July,FourStars,"Hotel Botanik, Turk. Riviera",86,79
+Bathing,3258.0,3.0,TurkishRiviera,Plane,14.0,September,FourStars,"Hotel Botanik, Turk. Riviera",4,62
+Active,2898.0,2.0,TurkishRiviera,Plane,14.0,May,FourStars,"Hotel Sueral, Turk. Riviera",49,9
+Education,2498.0,2.0,TurkishRiviera,Plane,14.0,October,FourStars,"Hotel Sueral, Turk. Riviera",70,42
+Bathing,2778.0,3.0,Tunisia,Plane,14.0,July,TwoStars,"Hotel Solymar, Tunisia",37,99
+Bathing,1778.0,2.0,Tunisia,Plane,14.0,June,TwoStars,"Hotel Solymar, Tunisia",37,5
+Recreation,2058.0,2.0,Tunisia,Plane,14.0,May,TwoStars,"Hotel-Club Ramses, Tunisia",75,37
+Active,2637.0,3.0,Tunisia,Plane,14.0,September,TwoStars,"Hotel-Club Ramses, Tunisia",12,1
+Bathing,4114.0,3.0,Tunisia,Plane,14.0,June,ThreeStars,"Hotel Montazah, Tunisia",95,81
+Bathing,3464.0,4.0,Tunisia,Plane,7.0,July,ThreeStars,"Hotel Montazah, Tunisia",36,20
+Bathing,3203.0,3.0,Tunisia,Plane,14.0,August,ThreeStars,"Hotel-Club Nador, Tunisia",76,5
+Recreation,2768.0,2.0,Tunisia,Plane,21.0,June,ThreeStars,"Hotel-Club Nador, Tunisia",39,84
+Recreation,2258.0,2.0,Tunisia,Plane,14.0,May,ThreeStars,"Hotel Aqua Viva, Tunisia",81,38
+Active,2964.0,3.0,Tunisia,Plane,14.0,September,ThreeStars,"Hotel Aqua Viva, Tunisia",85,9
+Bathing,2808.0,2.0,Tunisia,Plane,14.0,June,FourStars,"Hotel Paradise, Tunisia",4,93
+Bathing,4773.0,4.0,Tunisia,Plane,14.0,July,FourStars,"Hotel Paradise, Tunisia",78,63
+Recreation,1888.0,2.0,Tunisia,Plane,14.0,May,FourStars,"Hotel Royal Golf, Tunisia",28,88
+Bathing,2228.0,2.0,Tunisia,Plane,7.0,June,FourStars,"Hotel Royal Golf, Tunisia",19,4
+Active,2898.0,2.0,Tunisia,Plane,14.0,August,FourStars,"Hotel Jockey Club, Tunisia",19,26
+Active,2879.0,3.0,Tunisia,Plane,14.0,September,FourStars,"Hotel Jockey Club, Tunisia",11,83
+Bathing,3537.0,4.0,Balaton,Car,14.0,July,ThreeStars,"Hotel Marina, Balaton",69,54
+Bathing,2447.0,3.0,Balaton,Car,21.0,August,ThreeStars,"Hotel Marina, Balaton",96,52
+Bathing,2758.0,3.0,Balaton,Car,14.0,July,FourStars,"Hotel Helikon, Balaton",61,77
+Recreation,2758.0,2.0,Balaton,Car,14.0,June,FourStars,"Hotel Helikon, Balaton",89,9
+Bathing,879.0,9.0,Balaton,Car,7.0,June,HolidayFlat,H.Flat Balaton,84,65
+Bathing,759.0,5.0,Balaton,Car,7.0,July,HolidayFlat,H.Flat Balaton,35,61
+Bathing,798.0,2.0,Balaton,Car,14.0,August,HolidayFlat,H.Flat Balaton,2,1
+Recreation,658.0,3.0,Balaton,Car,14.0,May,HolidayFlat,H.Flat Balaton,14,26
+Recreation,279.0,2.0,Balaton,Car,7.0,June,HolidayFlat,H.Flat Balaton,46,51
+Active,1498.0,7.0,Balaton,Car,14.0,September,HolidayFlat,H.Flat Balaton,58,4
+Recreation,434.0,2.0,Belgium,Car,7.0,November,HolidayFlat,"Ferienpark Atlantis, Belgium",70,4
+Recreation,434.0,3.0,Belgium,Car,7.0,December,HolidayFlat,"Ferienpark Atlantis, Belgium",76,77
+Recreation,739.0,4.0,Belgium,Car,14.0,February,HolidayFlat,"Ferienpark Atlantis, Belgium",77,9
+Active,434.0,2.0,Belgium,Car,7.0,November,HolidayFlat,"Ferienpark Atlantis, Belgium",76,22
+Active,1068.0,4.0,Belgium,Car,14.0,March,HolidayFlat,"Ferienpark Atlantis, Belgium",27,24
+Recreation,314.0,2.0,Belgium,Car,3.0,November,HolidayFlat,"Ferienpark Atlantis, Belgium",34,83
+Active,394.0,6.0,Belgium,Car,4.0,January,HolidayFlat,"Ferienpark Atlantis, Belgium",35,10
+Recreation,649.0,4.0,Belgium,Car,7.0,November,HolidayFlat,"SunParks De Haan,Belgium",95,56
+Active,879.0,8.0,Belgium,Car,7.0,December,HolidayFlat,"SunParks De Haan,Belgium",22,57
+Recreation,719.0,6.0,Belgium,Car,7.0,January,HolidayFlat,"SunParks De Haan,Belgium",61,54
+Active,369.0,4.0,Belgium,Car,4.0,December,HolidayFlat,"SunParks De Haan,Belgium",87,82
+Recreation,849.0,3.0,Belgium,Car,7.0,February,HolidayFlat,"SunParks Groendyk, Belgium",65,8
+Active,649.0,6.0,Belgium,Car,7.0,November,HolidayFlat,"SunParks Groendyk, Belgium",71,90
+Recreation,339.0,5.0,Belgium,Car,4.0,February,HolidayFlat,"SunParks Groendyk, Belgium",87,68
+Recreation,1338.0,4.0,Belgium,Car,14.0,January,HolidayFlat,"SunParks Rauwse Meren, Belgium",99,99
+Active,959.0,5.0,Belgium,Car,7.0,February,HolidayFlat,"SunParks Rauwse Meren, Belgium",43,83
+Active,499.0,4.0,Belgium,Car,3.0,December,HolidayFlat,"SunParks Rauwse Meren, Belgium",10,35
+Recreation,649.0,4.0,Belgium,Car,7.0,March,HolidayFlat,"SunParks Vielsalm, Belgium",30,79
+Active,919.0,8.0,Belgium,Car,7.0,November,HolidayFlat,"SunParks Vielsalm, Belgium",51,26
+Recreation,619.0,6.0,Belgium,Car,4.0,March,HolidayFlat,"SunParks Vielsalm, Belgium",15,19
+Recreation,699.0,2.0,Denmark,Car,7.0,November,HolidayFlat,"Ferienpark Lalandia, Denmark",35,88
+Recreation,699.0,3.0,Denmark,Car,7.0,December,HolidayFlat,"Ferienpark Lalandia, Denmark",79,84
+Active,439.0,4.0,Denmark,Car,4.0,January,HolidayFlat,"Ferienpark Lalandia, Denmark",94,3
+Recreation,639.0,4.0,Denmark,Car,7.0,February,HolidayFlat,"Feriencenter Rodhus Klit, Denmark",64,10
+Active,639.0,5.0,Denmark,Car,7.0,March,HolidayFlat,"Feriencenter Rodhus Klit, Denmark",78,23
+Active,1278.0,4.0,Denmark,Car,14.0,November,HolidayFlat,"Feriencenter Rodhus Klit, Denmark",61,73
+Recreation,629.0,4.0,Denmark,Car,7.0,February,HolidayFlat,"Feriencenter Vigso, Denmark",44,22
+Active,629.0,6.0,Denmark,Car,7.0,January,HolidayFlat,"Feriencenter Vigso, Denmark",56,67
+Recreation,509.0,4.0,Denmark,Car,7.0,March,HolidayFlat,"Feriencenter Danland, Denmark",19,88
+Active,889.0,8.0,Denmark,Car,7.0,February,HolidayFlat,"Feriencenter Danland, Denmark",92,65
+Recreation,579.0,2.0,Denmark,Car,7.0,January,HolidayFlat,"H.Flat Ronbjerg Strand, Denmark",59,73
+Recreation,719.0,4.0,Denmark,Car,7.0,February,HolidayFlat,"H.Flat Ronbjerg Strand, Denmark",52,58
+Active,1638.0,6.0,Denmark,Car,14.0,March,HolidayFlat,"H.Flat Ronbjerg Strand, Denmark",53,40
+Recreation,849.0,4.0,Fano,Car,7.0,January,HolidayFlat,"Ferienpark Fano, Denmark",76,52
+Active,1089.0,6.0,Fano,Car,7.0,March,HolidayFlat,"Ferienpark Fano, Denmark",85,11
+Recreation,499.0,3.0,Holland,Car,7.0,November,HolidayFlat,"Ferienpark Port Greve, Holland",73,58
+Recreation,529.0,4.0,Holland,Car,7.0,December,HolidayFlat,"Ferienpark Port Greve, Holland",62,99
+Active,609.0,6.0,Holland,Car,7.0,February,HolidayFlat,"Ferienpark Port Greve, Holland",13,14
+Recreation,354.0,4.0,Holland,Car,3.0,January,HolidayFlat,"Ferienpark Port Greve, Holland",27,16
+Active,339.0,2.0,Holland,Car,4.0,November,HolidayFlat,"Ferienpark Port Greve, Holland",77,92
+Active,538.0,2.0,Poland,Car,7.0,January,ThreeStars,"Hotel Maurizius, Poland",30,19
+Skiing,822.0,3.0,Poland,Car,7.0,February,ThreeStars,"Hotel Maurizius, Poland",67,92
+Recreation,1076.0,4.0,Poland,Car,7.0,February,ThreeStars,"Hotel Maurizius, Poland",54,52
+Active,1602.0,3.0,Poland,Car,14.0,January,TwoStars,"Hotel Anna Maria, Poland",12,25
+Skiing,558.0,2.0,Poland,Car,7.0,February,TwoStars,"Hotel Anna Maria, Poland",68,8
+Recreation,807.0,4.0,Poland,Car,7.0,March,TwoStars,"Hotel Anna Maria, Poland",26,31
+Active,898.0,2.0,Poland,Car,14.0,January,TwoStars,"Hotel Karolinka, Poland",43,59
+Skiing,478.0,2.0,Poland,Car,7.0,February,TwoStars,"Hotel Karolinka, Poland",66,44
+Recreation,687.0,3.0,Poland,Car,7.0,March,TwoStars,"Hotel Karolinka, Poland",37,66
+Active,319.0,2.0,Poland,Car,7.0,January,TwoStars,"Hotel Ametyst, Poland",54,68
+Skiing,1962.0,4.0,Poland,Car,14.0,February,TwoStars,"Hotel Ametyst, Poland",66,66
+Recreation,329.0,2.0,Poland,Car,7.0,February,TwoStars,"Hotel Ametyst, Poland",99,39
+Active,987.0,3.0,Poland,Car,7.0,February,TwoStars,"Hotel Piecuch, Poland",71,71
+Skiing,638.0,2.0,Poland,Car,7.0,March,TwoStars,"Hotel Piecuch, Poland",75,95
+Recreation,1276.0,4.0,Poland,Car,7.0,January,TwoStars,"Hotel Piecuch, Poland",73,24
+Active,858.0,2.0,Slowakei,Car,7.0,January,TwoStars,"Hotel Banik, High Tatra",4,19
+Skiing,1647.0,3.0,Slowakei,Car,7.0,February,TwoStars,"Hotel Banik, High Tatra",51,94
+Active,1028.0,2.0,Slowakei,Car,14.0,February,ThreeStars,"Hotel Fis, High Tatra",98,69
+Skiing,1098.0,2.0,Slowakei,Car,7.0,March,ThreeStars,"Hotel Fis, High Tatra",46,86
+Skiing,1572.0,3.0,Slowakei,Car,7.0,January,ThreeStars,"Hotel Patria, High Tatra",50,89
+Recreation,1738.0,2.0,Slowakei,Car,7.0,February,ThreeStars,"Hotel Patria, High Tatra",87,56
+Active,3777.0,3.0,Slowakei,Car,14.0,February,ThreeStars,"Hotel Panorama, High Tatra",40,11
+Skiing,1048.0,2.0,Slowakei,Car,7.0,March,ThreeStars,"Hotel Panorama, High Tatra",86,43
+Skiing,598.0,2.0,Slowakei,Car,7.0,January,ThreeStars,"Hotel Hutnik, High Tatra",63,67
+Active,1816.0,4.0,Slowakei,Car,7.0,February,ThreeStars,"Hotel Hutnik, High Tatra",73,44
+Active,2097.0,3.0,Slowakei,Car,7.0,February,ThreeStars,"Hotel Slovakia, High Tatra",52,20
+Recreation,1198.0,2.0,Slowakei,Car,7.0,March,ThreeStars,"Hotel Slovakia, High Tatra",88,75
+Skiing,1257.0,3.0,Slowakei,Car,14.0,March,TwoStars,"Hotel Vesel, High Tatra",91,5
+Recreation,2036.0,4.0,Slowakei,Car,7.0,February,TwoStars,"Hotel Vesel, High Tatra",26,36
+Active,2334.0,6.0,Slowakei,Car,14.0,February,TwoStars,"Hotel Zornicka, High Tatra",27,51
+Skiing,1795.0,5.0,Slowakei,Car,7.0,January,TwoStars,"Hotel Zornicka, High Tatra",85,14
+Active,748.0,2.0,Slowakei,Car,7.0,January,TwoStars,"Hotel Sverma, High Tatra",85,69
+Skiing,1497.0,3.0,Slowakei,Car,7.0,February,TwoStars,"Hotel Sverma, High Tatra",93,93
+Skiing,1272.0,3.0,Slowakei,Car,7.0,February,OneStar,"Pension Bjoernson, High Tatra",25,40
+Skiing,888.0,2.0,Slowakei,Car,7.0,March,OneStar,"Pension Bjoernson, High Tatra",33,1
+Skiing,1152.0,4.0,Czechia,Car,7.0,January,ThreeStars,"Hotel Horal, Giant Mountains",13,59
+Skiing,1414.0,3.0,Czechia,Car,7.0,February,ThreeStars,"Hotel Horal, Giant Mountains",31,59
+Active,798.0,2.0,Czechia,Car,14.0,March,ThreeStars,"Hotel Horal, Giant Mountains",80,39
+Skiing,698.0,2.0,Czechia,Car,7.0,January,ThreeStars,"Hotel Montana, Giant Mountains",56,65
+Active,1372.0,3.0,Czechia,Car,7.0,February,ThreeStars,"Hotel Montana, Giant Mountains",79,84
+Skiing,1737.0,3.0,Czechia,Car,7.0,February,ThreeStars,"Hotel Arnika, Giant Mountains",2,72
+Skiing,998.0,2.0,Czechia,Car,7.0,March,ThreeStars,"Hotel Arnika, Giant Mountains",46,39
+Recreation,1737.0,3.0,Czechia,Car,14.0,January,ThreeStars,"Hotel Arnika, Giant Mountains",27,54
+Skiing,1596.0,4.0,Czechia,Car,7.0,February,TwoStars,"Hotel Energetik, Giant Mountains",45,73
+Active,638.0,2.0,Czechia,Car,7.0,March,TwoStars,"Hotel Energetik, Giant Mountains",27,27
+Skiing,897.0,3.0,Czechia,Car,14.0,February,OneStar,"Hotel Central, Giant Mountains",52,23
+Active,458.0,2.0,Czechia,Car,7.0,January,OneStar,"Hotel Central, Giant Mountains",31,14
+Skiing,698.0,2.0,Czechia,Car,7.0,March,TwoStars,"Berghotel Cubat, Giant Mountains",41,19
+Skiing,1047.0,3.0,Czechia,Car,7.0,February,TwoStars,"Berghotel Cubat, Giant Mountains",8,46
+Active,488.0,2.0,Czechia,Car,7.0,January,OneStar,"Pension Trakce, Giant Mountains",44,46
+Recreation,1096.0,4.0,Czechia,Car,7.0,February,OneStar,"Pension Trakce, Giant Mountains",19,81
+Skiing,458.0,2.0,Czechia,Car,7.0,March,OneStar,"Pension Protez, Giant Mountains",83,54
+Recreation,1180.0,3.0,Czechia,Car,14.0,February,OneStar,"Pension Protez, Giant Mountains",34,64
+Active,892.0,4.0,Czechia,Car,7.0,January,OneStar,"Hotel Sirena, Giant Mountains",8,41
+Skiing,718.0,2.0,Czechia,Car,7.0,February,OneStar,"Hotel Sirena, Giant Mountains",58,13
+Skiing,974.0,5.0,Czechia,Car,7.0,March,HolidayFlat,H.Flat Giant Mountains,33,95
+Skiing,974.0,3.0,Czechia,Car,7.0,February,HolidayFlat,H.Flat Giant Mountains,47,60
+Skiing,1108.0,4.0,Czechia,Car,14.0,January,HolidayFlat,H.Flat Adlergebirge,71,16
+Active,579.0,6.0,Czechia,Car,7.0,March,HolidayFlat,H.Flat Bohemian Forest,90,53
+Active,664.0,4.0,Czechia,Car,7.0,February,HolidayFlat,H.Flat Bohemian Forest,92,93
+Active,4332.0,4.0,Allgaeu,Car,7.0,December,FiveStars,"Hofgut Kuernach, Allgaeu",39,75
+Skiing,1868.0,2.0,Allgaeu,Car,7.0,January,FiveStars,"Hofgut Kuernach, Allgaeu",58,69
+Recreation,2428.0,3.0,Allgaeu,Car,7.0,February,FiveStars,"Hofgut Kuernach, Allgaeu",18,79
+Active,1822.0,3.0,Allgaeu,Car,14.0,March,ThreeStars,"Hotel Alpenblick, Allgaeu",69,99
+Skiing,1458.0,2.0,Allgaeu,Car,7.0,February,ThreeStars,"Hotel Alpenblick, Allgaeu",68,56
+Skiing,1822.0,3.0,Allgaeu,Car,7.0,January,ThreeStars,"Hotel Alpenblick, Allgaeu",56,57
+Active,2248.0,2.0,Allgaeu,Car,7.0,December,FiveStars,"Alpenhotel, Allgaeu",44,16
+Skiing,2447.0,3.0,Allgaeu,Car,7.0,January,FiveStars,"Alpenhotel, Allgaeu",72,60
+Recreation,2937.0,4.0,Allgaeu,Car,7.0,February,FiveStars,"Alpenhotel, Allgaeu",86,9
+Active,1058.0,3.0,Allgaeu,Car,14.0,March,TwoStars,"Gaestehaus Meier, Allgaeu",6,29
+Skiing,1587.0,4.0,Allgaeu,Car,7.0,February,TwoStars,"Gaestehaus Meier, Allgaeu",89,44
+Recreation,688.0,2.0,Allgaeu,Car,7.0,January,TwoStars,"Gaestehaus Meier, Allgaeu",68,85
+Skiing,530.0,4.0,Allgaeu,Car,7.0,December,HolidayFlat,"H.Flat Nadenberg, Allgaeu",70,28
+Active,645.0,8.0,Allgaeu,Car,7.0,January,HolidayFlat,"H.Flat Nadenberg, Allgaeu",46,42
+Skiing,745.0,6.0,Allgaeu,Car,7.0,February,HolidayFlat,"H.Flat Nadenberg, Allgaeu",39,31
+Skiing,1188.0,2.0,Allgaeu,Car,14.0,March,HolidayFlat,H.Flat Oberallgaeu,12,52
+Recreation,879.0,4.0,Allgaeu,Car,7.0,February,HolidayFlat,H.Flat Oberallgaeu,49,39
+Active,624.0,3.0,Allgaeu,Car,7.0,January,HolidayFlat,H.Flat Oberallgaeu,68,97
+Skiing,459.0,3.0,Allgaeu,Car,8.0,December,HolidayFlat,"H.Flat Alpina, Allgaeu",63,4
+Skiing,424.0,4.0,Allgaeu,Car,7.0,January,HolidayFlat,"H.Flat Alpina, Allgaeu",3,50
+Recreation,1568.0,4.0,Allgaeu,Car,14.0,February,HolidayFlat,"H.Flat Alpina, Allgaeu",59,49
+Skiing,854.0,4.0,Allgaeu,Car,7.0,March,HolidayFlat,"H.Flat Reichenbach, Allgaeu",10,17
+Active,984.0,6.0,Allgaeu,Car,7.0,February,HolidayFlat,"H.Flat Reichenbach, Allgaeu",58,91
+Recreation,439.0,2.0,Allgaeu,Car,7.0,January,HolidayFlat,"H.Flat Sonnenhalde, Allgaeu",99,94
+Recreation,799.0,3.0,Allgaeu,Car,10.0,December,HolidayFlat,"H.Flat Sonnenhalde, Allgaeu",39,56
+Active,998.0,3.0,Bavaria,Car,7.0,December,ThreeStars,"Sporthotel Rosenberger, Bavaria",91,88
+Skiing,798.0,2.0,Bavaria,Car,7.0,January,ThreeStars,"Sporthotel Rosenberger, Bavaria",2,23
+Skiing,998.0,3.0,Bavaria,Car,7.0,February,ThreeStars,"Sporthotel Rosenberger, Bavaria",23,9
+Active,1348.0,2.0,Bavaria,Car,7.0,December,FourStars,"H.Flat Eichenbuehl, Allgaeu",82,14
+Skiing,1147.0,3.0,Bavaria,Car,7.0,January,FourStars,"H.Flat Eichenbuehl, Allgaeu",25,94
+Recreation,3188.0,2.0,Bavaria,Car,14.0,February,ThreeStars,"Hotel Bavaria, Bavaria",75,79
+Active,3448.0,2.0,Bavaria,Car,10.0,December,ThreeStars,"Hotel Bavaria, Bavaria",52,50
+Active,1658.0,2.0,Bavaria,Car,7.0,January,FourStars,"Residenz Ludwig, Bavaria",59,93
+Skiing,2072.0,3.0,Bavaria,Car,7.0,February,FourStars,"Residenz Ludwig, Bavaria",49,85
+Active,2985.0,3.0,Bavaria,Car,14.0,February,FourStars,"Hotel Seidlpark, Bavaria",41,38
+Skiing,1658.0,2.0,Bavaria,Car,7.0,March,FourStars,"Hotel Seidlpark, Bavaria",56,51
+Active,745.0,3.0,Bavaria,Car,7.0,January,TwoStars,"Pension Laerchenhof, Bavaria",55,67
+Recreation,949.0,4.0,Bavaria,Car,7.0,February,TwoStars,"Pension Laerchenhof, Bavaria",46,54
+Active,684.0,2.0,Bavaria,Car,7.0,January,HolidayFlat,"H.Flat Chiemgau, Bavaria",90,82
+Skiing,1164.0,5.0,Bavaria,Car,14.0,February,HolidayFlat,"H.Flat Chiemgau, Bavaria",93,4
+Active,529.0,4.0,Bavaria,Car,7.0,December,HolidayFlat,"H.Flat Reiterhof, Bavaria",17,7
+Recreation,484.0,2.0,Bavaria,Car,7.0,February,HolidayFlat,"H.Flat Reiterhof, Bavaria",28,11
+Skiing,449.0,2.0,Bavaria,Car,7.0,January,HolidayFlat,"H.Flat Wildgatter, Bavaria",3,64
+Skiing,774.0,6.0,Bavaria,Car,7.0,February,HolidayFlat,"H.Flat Wildgatter, Bavaria",60,15
+Active,379.0,2.0,Bavaria,Car,7.0,January,HolidayFlat,"H.Flat Am Hochwald, Bavaria",10,63
+Recreation,459.0,3.0,Bavaria,Car,14.0,February,HolidayFlat,"H.Flat Am Hochwald, Bavaria",94,31
+Active,454.0,3.0,Bavaria,Car,7.0,January,HolidayFlat,"H.Flat Christopherhof, Bavaria",83,8
+Skiing,774.0,8.0,Bavaria,Car,7.0,March,HolidayFlat,"H.Flat Christopherhof, Bavaria",19,95
+Recreation,699.0,6.0,Bavaria,Car,7.0,January,HolidayFlat,"H.Flat Jaegerwiesen, Bavaria",13,28
+Active,1018.0,3.0,Bavaria,Car,14.0,February,HolidayFlat,"H.Flat Jaegerwiesen, Bavaria",80,6
+Recreation,1338.0,2.0,ErzGebirge,Car,7.0,December,ThreeStars,"Hotel Lugsteinhof, Erz Gebirge",60,33
+Skiing,1472.0,3.0,ErzGebirge,Car,7.0,January,ThreeStars,"Hotel Lugsteinhof, Erz Gebirge",89,22
+Recreation,1257.0,4.0,ErzGebirge,Car,7.0,February,ThreeStars,"Hotel Am Fichtelberg, Erz Gebirge",94,19
+Skiing,1178.0,2.0,ErzGebirge,Car,7.0,March,ThreeStars,"Hotel Am Fichtelberg, Erz Gebirge",12,10
+Active,1257.0,4.0,ErzGebirge,Car,7.0,February,ThreeStars,"Sporthotel Oberwiesenthal, Erz Gebirge",16,57
+Skiing,1338.0,2.0,ErzGebirge,Car,7.0,December,ThreeStars,"Sporthotel Oberwiesenthal, Erz Gebirge",28,92
+Recreation,1235.0,3.0,ErzGebirge,Car,7.0,January,ThreeStars,"Rathaushotel, Erz Gebirge",42,35
+Active,1482.0,4.0,ErzGebirge,Car,7.0,February,ThreeStars,"Rathaushotel, Erz Gebirge",58,67
+Recreation,838.0,2.0,ErzGebirge,Car,14.0,March,ThreeStars,"Hotel Stephanshoehe, Erz Gebirge",93,42
+Recreation,1472.0,3.0,ErzGebirge,Car,7.0,February,ThreeStars,"Hotel Stephanshoehe, Erz Gebirge",7,2
+Skiing,604.0,2.0,ErzGebirge,Car,14.0,December,ThreeStars,"Hotel Vogtland, Erz Gebirge",31,72
+Recreation,1782.0,4.0,ErzGebirge,Car,7.0,January,ThreeStars,"Hotel Vogtland, Erz Gebirge",14,11
+Active,2935.0,3.0,ErzGebirge,Car,14.0,January,ThreeStars,"Kurhotel Am See, Erz Gebirge",2,39
+Recreation,838.0,2.0,ErzGebirge,Car,7.0,March,ThreeStars,"Kurhotel Am See, Erz Gebirge",91,91
+Recreation,1257.0,4.0,ErzGebirge,Car,7.0,February,ThreeStars,"Kurhotel Am See, Erz Gebirge",81,19
+Recreation,559.0,6.0,ErzGebirge,Car,7.0,December,HolidayFlat,"H.Flat Haus Vogtland, Erz Gebirge",36,57
+Recreation,549.0,7.0,ErzGebirge,Car,7.0,January,HolidayFlat,"H.Flat Haus Vogtland, Erz Gebirge",82,33
+Active,1098.0,5.0,ErzGebirge,Car,14.0,March,HolidayFlat,"H.Flat Haus Vogtland, Erz Gebirge",17,43
+Active,549.0,6.0,ErzGebirge,Car,7.0,February,HolidayFlat,"H.Flat Haus Vogtland, Erz Gebirge",68,80
+Skiing,549.0,4.0,ErzGebirge,Car,7.0,February,HolidayFlat,"H.Flat Haus Vogtland, Erz Gebirge",37,96
+Recreation,2128.0,2.0,Harz,Car,7.0,December,ThreeStars,"Aparthotel Bocksberg, Harz",94,62
+Recreation,1910.0,3.0,Harz,Car,7.0,January,ThreeStars,"Aparthotel Bocksberg, Harz",92,4
+Wandering,1648.0,2.0,Harz,Car,7.0,February,ThreeStars,"Aparthotel Bocksberg, Harz",12,14
+Skiing,2007.0,4.0,Harz,Car,7.0,March,ThreeStars,"Aparthotel Bocksberg, Harz",31,28
+Recreation,2368.0,2.0,Harz,Car,10.0,December,ThreeStars,"Travelhotel Waldfrieden, Harz",90,69
+Recreation,1485.0,3.0,Harz,Car,7.0,January,ThreeStars,"Travelhotel Waldfrieden, Harz",63,28
+Wandering,1298.0,2.0,Harz,Car,7.0,February,ThreeStars,"Travelhotel Waldfrieden, Harz",26,17
+Active,1782.0,4.0,Harz,Car,7.0,March,ThreeStars,"Travelhotel Waldfrieden, Harz",59,66
+Recreation,2007.0,4.0,Harz,Car,7.0,December,TwoStars,"Hotel Harzquell, Harz",69,18
+Wandering,1168.0,2.0,Harz,Car,14.0,January,TwoStars,"Hotel Harzquell, Harz",21,9
+Skiing,1460.0,3.0,Harz,Car,7.0,February,TwoStars,"Hotel Harzquell, Harz",9,74
+Recreation,1522.0,3.0,Harz,Car,7.0,December,TwoStars,"Hotel Fuerstenhoeh, Harz",48,85
+Recreation,1482.0,4.0,Harz,Car,7.0,January,TwoStars,"Hotel Fuerstenhoeh, Harz",64,80
+Skiing,1235.0,3.0,Harz,Car,7.0,February,TwoStars,"Hotel Fuerstenhoeh, Harz",63,79
+Wandering,599.0,3.0,Harz,Car,14.0,November,HolidayFlat,"H.Flat Panoramic, Harz",49,8
+Recreation,679.0,5.0,Harz,Car,7.0,January,HolidayFlat,"H.Flat Panoramic, Harz",41,5
+Recreation,419.0,2.0,Harz,Car,7.0,February,HolidayFlat,"H.Flat Ferienpark, Harz",41,46
+Wandering,1114.0,4.0,Harz,Car,10.0,December,HolidayFlat,"H.Flat Ferienpark, Harz",6,70
+Skiing,324.0,3.0,Harz,Car,7.0,December,HolidayFlat,"H.Flat Teichtal, Harz",40,53
+Skiing,499.0,6.0,Harz,Car,7.0,February,HolidayFlat,"H.Flat Teichtal, Harz",52,5
+Wandering,1227.0,4.0,BlackForest,Car,7.0,December,TwoStars,"Hotel Hirschen, Black Forest",57,63
+Active,748.0,2.0,BlackForest,Car,7.0,January,TwoStars,"Hotel Hirschen, Black Forest",96,24
+Skiing,1735.0,3.0,BlackForest,Car,7.0,February,FourStars,"Treff-Hotel, Black Forest",32,38
+Wandering,2768.0,2.0,BlackForest,Car,14.0,March,FourStars,"Treff-Hotel, Black Forest",85,33
+Recreation,1737.0,4.0,BlackForest,Car,7.0,February,ThreeStars,"Berghotel Kandel, Black Forest",88,13
+Wandering,818.0,2.0,BlackForest,Car,7.0,January,ThreeStars,"Berghotel Kandel, Black Forest",5,32
+Recreation,2322.0,3.0,BlackForest,Car,10.0,December,ThreeStars,"Berghotel Mummelsee, Black Forest",8,26
+Skiing,1158.0,2.0,BlackForest,Car,7.0,February,ThreeStars,"Berghotel Mummelsee, Black Forest",38,76
+Active,1008.0,2.0,BlackForest,Car,7.0,January,ThreeStars,"Hotel Waldwinkel, Black Forest",76,16
+Recreation,1260.0,3.0,BlackForest,Car,14.0,February,ThreeStars,"Hotel Waldwinkel, Black Forest",21,86
+Wandering,1257.0,4.0,BlackForest,Car,7.0,March,TwoStars,"Gasthof Hochkopfhaus, Black Forest",11,60
+Skiing,838.0,2.0,BlackForest,Car,7.0,February,TwoStars,"Gasthof Hochkopfhaus, Black Forest",74,8
+Recreation,897.0,3.0,BlackForest,Car,7.0,January,TwoStars,"Landgasthof Schuetzen, Black Forest",22,74
+Wandering,688.0,2.0,BlackForest,Car,6.0,December,TwoStars,"Landgasthof Schuetzen, Black Forest",11,12
+Active,454.0,4.0,BlackForest,Car,7.0,January,HolidayFlat,H.Flat Ferienpark Black Forest,20,47
+Active,514.0,6.0,BlackForest,Car,7.0,February,HolidayFlat,H.Flat Ferienpark Black Forest,83,69
+Recreation,459.0,2.0,BlackForest,Car,7.0,March,HolidayFlat,H.Flat Schwarzwaldgrund,26,82
+Recreation,1068.0,4.0,BlackForest,Car,14.0,February,HolidayFlat,H.Flat Schwarzwaldgrund,13,28
+Skiing,549.0,6.0,BlackForest,Car,7.0,January,HolidayFlat,"H.Flat Sonnenrain, Black Forest",37,32
+Recreation,679.0,2.0,BlackForest,Car,7.0,December,HolidayFlat,H.Flat Schwarzwaldblick,36,31
+Recreation,599.0,4.0,BlackForest,Car,7.0,January,HolidayFlat,H.Flat Schwarzwaldblick,39,30
+Skiing,464.0,3.0,BlackForest,Car,7.0,February,HolidayFlat,"H.Flat Schwiezer Hof, Black Forest",95,7
+Wandering,1033.0,5.0,BlackForest,Car,14.0,March,HolidayFlat,"H.Flat Schwiezer Hof, Black Forest",31,2
+Recreation,989.0,4.0,BlackForest,Car,7.0,February,HolidayFlat,"H.Flat Panorama-Blick, Black Forest",14,30
+Wandering,839.0,6.0,BlackForest,Car,7.0,January,HolidayFlat,"H.Flat Panorama-Blick, Black Forest",61,96
+Wandering,1672.0,3.0,Thuringia,Car,7.0,December,ThreeStars,"Berghotel Friedrichroda, Thuringia",12,75
+Recreation,1178.0,2.0,Thuringia,Car,7.0,January,ThreeStars,"Berghotel Friedrichroda, Thuringia",77,20
+Active,4092.0,4.0,Thuringia,Car,14.0,February,ThreeStars,"Hotel Finsterbergen, Thuringia",56,2
+Wandering,1368.0,2.0,Thuringia,Car,7.0,March,ThreeStars,"Hotel Finsterbergen, Thuringia",77,12
+Wandering,1104.0,3.0,Thuringia,Car,7.0,February,TwoStars,"Hotel Schoene Aussicht, Thuringia",93,14
+Skiing,883.0,2.0,Thuringia,Car,7.0,January,TwoStars,"Hotel Schoene Aussicht, Thuringia",45,74
+Recreation,688.0,2.0,Thuringia,Car,7.0,December,ThreeStars,"Berghotel Oberhof, Thuringia",79,98
+Wandering,1773.0,3.0,Thuringia,Car,14.0,November,ThreeStars,"Berghotel Oberhof, Thuringia",42,26
+Wandering,1138.0,2.0,Thuringia,Car,7.0,January,FourStars,"Hotel Panorama, Thuringia",19,24
+Recreation,1647.0,3.0,Thuringia,Car,7.0,March,FourStars,"Hotel Panorama, Thuringia",63,44
+Skiing,1977.0,4.0,Thuringia,Car,7.0,February,FourStars,"Hotel Panorama, Thuringia",49,38
+Wandering,1294.0,2.0,Thuringia,Car,14.0,January,TwoStars,"Hotel Am Schuetzenberg, Thuringia",55,83
+Recreation,785.0,3.0,Thuringia,Car,7.0,December,TwoStars,"Hotel Am Schuetzenberg, Thuringia",60,98
+Active,987.0,4.0,Thuringia,Car,7.0,February,TwoStars,"Hotel Frankenwald, Thuringia",90,16
+Wandering,598.0,2.0,Thuringia,Car,7.0,March,TwoStars,"Hotel Frankenwald, Thuringia",8,91
+Wandering,389.0,3.0,Thuringia,Car,7.0,February,HolidayFlat,"H.Flat Schmeheim, Thuringia",22,14
+Wandering,389.0,4.0,Thuringia,Car,7.0,March,HolidayFlat,"H.Flat Schmeheim, Thuringia",93,97
+Recreation,389.0,3.0,Thuringia,Car,7.0,January,HolidayFlat,"H.Flat Schmeheim, Thuringia",2,44
+Active,924.0,4.0,Thuringia,Car,9.0,December,HolidayFlat,"H.Flat Schmeheim, Thuringia",44,74
+Skiing,389.0,4.0,Thuringia,Car,7.0,February,HolidayFlat,"H.Flat Schmeheim, Thuringia",50,28
+Wandering,855.0,4.0,Thuringia,Car,14.0,March,HolidayFlat,"H.Flat Ruppertus, Thuringia",20,90
+Wandering,483.0,4.0,Thuringia,Car,7.0,January,HolidayFlat,"H.Flat Ruppertus, Thuringia",97,81
+Recreation,774.0,4.0,Thuringia,Car,9.0,December,HolidayFlat,"H.Flat Ruppertus, Thuringia",69,18
+Active,483.0,3.0,Thuringia,Car,7.0,January,HolidayFlat,"H.Flat Ruppertus, Thuringia",21,49
+Skiing,483.0,4.0,Thuringia,Car,7.0,February,HolidayFlat,"H.Flat Ruppertus, Thuringia",64,95
+Active,624.0,4.0,France,Car,7.0,December,HolidayFlat,"H.Flat Maeva, France",68,46
+Skiing,624.0,4.0,France,Car,7.0,January,HolidayFlat,"H.Flat Maeva, France",57,45
+Recreation,1624.0,5.0,France,Car,7.0,February,HolidayFlat,"H.Flat Maeva, France",85,16
+Active,844.0,4.0,France,Car,7.0,March,HolidayFlat,"H.Flat Le Cervin, France",58,36
+Skiing,1654.0,5.0,France,Car,7.0,February,HolidayFlat,"H.Flat Le Cervin, France",93,50
+Recreation,824.0,6.0,France,Car,7.0,January,HolidayFlat,"H.Flat Le Cervin, France",69,71
+Active,764.0,4.0,France,Car,7.0,December,HolidayFlat,"H.Flat Bellecote, France",16,59
+Skiing,3368.0,5.0,France,Car,14.0,January,HolidayFlat,"H.Flat Bellecote, France",34,21
+Recreation,1014.0,4.0,France,Car,7.0,February,HolidayFlat,"H.Flat Bellecote, France",70,89
+Active,1339.0,4.0,France,Car,7.0,March,HolidayFlat,"H.Flat Cheval Blanc, France",51,97
+Skiing,1094.0,5.0,France,Car,7.0,February,HolidayFlat,"H.Flat Cheval Blanc, France",70,91
+Recreation,1728.0,6.0,France,Car,14.0,January,HolidayFlat,"H.Flat Cheval Blanc, France",1,40
+Active,589.0,4.0,France,Car,7.0,December,HolidayFlat,"H.Flat Les Olympiades, France",74,82
+Skiing,589.0,4.0,France,Car,7.0,January,HolidayFlat,"H.Flat Les Olympiades, France",53,19
+Recreation,1574.0,4.0,France,Car,7.0,February,HolidayFlat,"H.Flat Les Olympiades, France",61,73
